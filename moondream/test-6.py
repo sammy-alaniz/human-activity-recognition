@@ -17,6 +17,8 @@ model = AutoModelForCausalLM.from_pretrained(
     device_map="mps"
 )
 
+model = torch.compile(model)
+
 # Load and encode the image (this is the part you want to separate)
 image_path = "/Users/samuelalaniz/dev/school/human-signals/project/1-ws/human-activity-recognition/moondream/burger-1.png"
 image = Image.open(image_path)
