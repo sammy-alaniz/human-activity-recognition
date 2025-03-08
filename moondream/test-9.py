@@ -8,7 +8,9 @@ model = AutoModelForCausalLM.from_pretrained(
     "vikhyatk/moondream2",
     revision="2025-01-09",
     trust_remote_code=True,
-    torch_dtype=torch.float16
+    torch_dtype=torch.float16,
+    device_map="mps"
+
 )
 
 model = torch.compile(model)
