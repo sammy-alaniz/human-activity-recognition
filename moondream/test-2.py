@@ -1,15 +1,33 @@
 import moondream as md
 from PIL import Image
 import time
+import torch
 
+# Enable PyTorch optimizations
+torch._dynamo.config.cache_size_limit = 64
+torch._dynamo.config.suppress_errors = True
+
+# Initialize with local model path
 model = md.vl(model="/Users/samuelalaniz/dev/moondream-0_5b-int8.mf")
 
+# Configure for speed (if the API exposes these parameters)
+try:
+    # Reduce max crops and overlap margin
+    model.config.vision.max_crops = 4     # Default is 12 
+    model.config.vision.overlap_margin = 2  # Default is 4
+except:
+    print("Unable to modify vision config params - using defaults")
 
+# Enable model compilation if available
+try:
+    model.compile()
+except:
+    print("Model compilation not available in this API")
 
+# Load the image and resize
 image = Image.open("/Users/samuelalaniz/dev/school/human-signals/project/1-ws/human-activity-recognition/moondream/burger-1.png")
-# Resize to smallest useful size (even smaller than GPU)
-cpu_optimal_size = (224, 224)  # More aggressive reduction for CPU
-resized_image = image.resize(cpu_optimal_size, Image.BILINEAR)  # BILINEAR is faster than LANCZOS
+# Resize to 378×378 (the model's native crop size) or smaller for maximum speed
+resized_image = image.resize((378, 378), Image.LANCZOS)
 
 # Time the encode_image method
 start_time = time.time()
