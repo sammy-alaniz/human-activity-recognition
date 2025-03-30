@@ -1,6 +1,9 @@
 .DS_Store
 venv/
 
+k400/
+k400_targz/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
