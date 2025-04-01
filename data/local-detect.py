@@ -12,7 +12,7 @@ def encode_image_to_base64(image_path):
         return base64.b64encode(image_file.read()).decode("utf-8")
 
 def classify_image_with_retry(image_path, api_key, max_retries=5, initial_backoff=1):
-    """Send an image to OpenAI's Vision API with retry logic for rate limits."""
+    """Send an image to llamafile's API with retry logic for rate limits."""
     base64_image = encode_image_to_base64(image_path)
     
     prompt = """
@@ -50,23 +50,19 @@ Important: Only use "yes" if you're confident the specific activity is clearly s
         "Authorization": f"Bearer {api_key}"
     }
     
+    # Updated payload structure for llamafile
     payload = {
-        "model": "gpt-4o",
+        "model": "LLaMA_CPP",
         "messages": [
             {
                 "role": "user",
-                "content": [
-                    {
-                        "type": "text",
-                        "text": prompt
-                    },
-                    {
-                        "type": "image_url",
-                        "image_url": {
-                            "url": f"data:image/jpeg;base64,{base64_image}"
-                        }
-                    }
-                ]
+                "content": f"[img-1] {prompt}"
+            }
+        ],
+        "image_data": [
+            {
+                "data": base64_image,
+                "id": 1
             }
         ],
         "max_tokens": 3000
@@ -77,10 +73,11 @@ Important: Only use "yes" if you're confident the specific activity is clearly s
     backoff_time = initial_backoff
     
     while retries <= max_retries:
-        response = requests.post("https://api.openai.com/v1/chat/completions", headers=headers, json=payload)
+        response = requests.post("http://localhost:8080/v1/chat/completions", headers=headers, json=payload)
         
         if response.status_code == 200:
             result = response.json()
+            print(result)
             answer_text = result["choices"][0]["message"]["content"].strip()
             
             # Parse the response to extract activity classifications
@@ -233,12 +230,10 @@ if __name__ == "__main__":
     frames_dir = "./data/k400/extracted_frames"
     
     # Output file for results
-    output_file = "./data/classification_results.json"
+    output_file = "./data/classification_llama_results.json"
     
     # Your OpenAI API key (better to use environment variable)
-    api_key = os.environ.get("OPENAI_API_KEY")
-    if not api_key:
-        api_key = "your_openai_api_key"  # Replace with your actual API key
+    api_key = os.environ.get("OPENAI_API_KEY", "no-key")  # For llamafile, "no-key" is fine
     
     # Process all frames
     process_frames(frames_dir, output_file, api_key)
