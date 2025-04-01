@@ -1,0 +1,41 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "\nPlease provide the image description so I can identify the activities.</s>",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1743483563,
+  "id": "chatcmpl-T3O8zth0IK7WUKPnEAEPY4SvmGd3uDZ1",
+  "model": "LLaMA_CPP",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 14,
+    "prompt_tokens": 382,
+    "total_tokens": 396
+  }
+}{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "\nYes.</s>",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1743483563,
+  "id": "chatcmpl-QSOifqhEw5aYY8zfL50xHP66laARiCUu",
+  "model": "LLaMA_CPP",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 4,
+    "prompt_tokens": 382,
+    "total_tokens": 386
+  }
+}

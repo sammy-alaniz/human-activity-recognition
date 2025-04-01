@@ -62,7 +62,25 @@ Important: Only use "yes" if you're confident the specific activity is clearly s
                 "id": 1
             }
         ],
-        "max_tokens": 3000
+        "n_predict": 400,
+        "temperature": 0.7,
+        "repeat_last_n": 256,
+        "repeat_penalty": 1.18,
+        "top_k": 40,
+        "top_p": 0.95,
+        "min_p": 0.05,
+        "tfs_z": 1.0,
+        "typical_p": 1.0,
+        "presence_penalty": 0.0,
+        "frequency_penalty": 0.0,
+        "mirostat": 0,
+        "mirostat_tau": 5.0,
+        "mirostat_eta": 0.1,
+        "grammar": "",
+        "n_probs": 0,
+        "min_keep": 0,
+        "cache_prompt": True,
+        "api_key": "",
         
     }
     
