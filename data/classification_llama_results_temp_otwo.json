@@ -1,0 +1,1978 @@
+[
+  {
+    "image_path": "./data/k400/extracted_frames/cooking_chicken/-6zh0xWFWT4_000036_000046_frame3.jpg",
+    "activity_type": "cooking_chicken",
+    "llm_output": {
+      "choices": [
+        {
+          "finish_reason": "stop",
+          "index": 0,
+          "message": {
+            "content": "I see a person standing in front of a building.</s>",
+            "role": "assistant"
+          }
+        }
+      ],
+      "created": 1743479172,
+      "id": "chatcmpl-201k8Lwe8xRo0ijUA8SNGUnHeSzbDc7R",
+      "model": "LLaMA_CPP",
+      "object": "chat.completion",
+      "usage": {
+        "completion_tokens": 12,
+        "prompt_tokens": 39,
+        "total_tokens": 51
+      }
+    },
+    "timestamp": "2025-03-31 22:46:12"
+  },
+  {
+    "image_path": "./data/k400/extracted_frames/cooking_chicken/-6zh0xWFWT4_000036_000046_frame2.jpg",
+    "activity_type": "cooking_chicken",
+    "llm_output": {
+      "choices": [
+        {
+          "finish_reason": "stop",
+          "index": 0,
+          "message": {
+            "content": "I see a person standing in a field, holding a baseball bat. The person appears to be a baseball player, possibly preparing to practice or play a game. The field is surrounded by a forest, creating a serene and natural setting for the activity.</s>",
+            "role": "assistant"
+          }
+        }
+      ],
+      "created": 1743479176,
+      "id": "chatcmpl-jQo3cpm8xTDONyPtjz6uHLP0cKPNQTSk",
+      "model": "LLaMA_CPP",
+      "object": "chat.completion",
+      "usage": {
+        "completion_tokens": 53,
+        "prompt_tokens": 39,
+        "total_tokens": 92
+      }
+    },
+    "timestamp": "2025-03-31 22:46:16"
+  },
+  {
+    "image_path": "./data/k400/extracted_frames/cooking_chicken/-6zh0xWFWT4_000036_000046_frame1.jpg",
+    "activity_type": "cooking_chicken",
+    "llm_output": {
+      "choices": [
+        {
+          "finish_reason": "stop",
+          "index": 0,
+          "message": {
+            "content": "I see a person standing in front of a building.</s>",
+            "role": "assistant"
+          }
+        }
+      ],
+      "created": 1743479176,
+      "id": "chatcmpl-tju29wUbVVyGFWTiqUMUrb14Dfh4XNMT",
+      "model": "LLaMA_CPP",
+      "object": "chat.completion",
+      "usage": {
+        "completion_tokens": 12,
+        "prompt_tokens": 39,
+        "total_tokens": 51
+      }
+    },
+    "timestamp": "2025-03-31 22:46:16"
+  },
+  {
+    "image_path": "./data/k400/extracted_frames/cooking_chicken/-BptOURMao8_000398_000408_frame2.jpg",
+    "activity_type": "cooking_chicken",
+    "llm_output": {
+      "choices": [
+        {
+          "finish_reason": "stop",
+          "index": 0,
+          "message": {
+            "content": "I see a young man standing in a field, holding a gun. He appears to be looking at something or someone in the distance.</s>",
+            "role": "assistant"
+          }
+        }
+      ],
+      "created": 1743479178,
+      "id": "chatcmpl-pxPBApIydENKUaA4A4I6kNhrk7lsTq5s",
+      "model": "LLaMA_CPP",
+      "object": "chat.completion",
+      "usage": {
+        "completion_tokens": 28,
+        "prompt_tokens": 39,
+        "total_tokens": 67
+      }
+    },
+    "timestamp": "2025-03-31 22:46:18"
+  },
+  {
+    "image_path": "./data/k400/extracted_frames/cooking_chicken/-BptOURMao8_000398_000408_frame3.jpg",
+    "activity_type": "cooking_chicken",
+    "llm_output": {
+      "choices": [
+        {
+          "finish_reason": "stop",
+          "index": 0,
+          "message": {
+            "content": "I see a person standing in a field, possibly a farmer or a worker. The field is filled with crops, and the person appears to be engaged in some activity related to the agricultural work.</s>",
+            "role": "assistant"
+          }
+        }
+      ],
+      "created": 1743479181,
+      "id": "chatcmpl-CO58PDEcOCpL5BxsALUSjABa6XtS9vhY",
+      "model": "LLaMA_CPP",
+      "object": "chat.completion",
+      "usage": {
+        "completion_tokens": 43,
+        "prompt_tokens": 39,
+        "total_tokens": 82
+      }
+    },
+    "timestamp": "2025-03-31 22:46:21"
+  },
+  {
+    "image_path": "./data/k400/extracted_frames/cooking_chicken/-BptOURMao8_000398_000408_frame1.jpg",
+    "activity_type": "cooking_chicken",
+    "llm_output": {
+      "choices": [
+        {
+          "finish_reason": "stop",
+          "index": 0,
+          "message": {
+            "content": "I see a person standing in front of a building.</s>",
+            "role": "assistant"
+          }
+        }
+      ],
+      "created": 1743479182,
+      "id": "chatcmpl-ccjvokZxB9oquaPtEhcbJDvVHsO6rKIe",
+      "model": "LLaMA_CPP",
+      "object": "chat.completion",
+      "usage": {
+        "completion_tokens": 12,
+        "prompt_tokens": 39,
+        "total_tokens": 51
+      }
+    },
+    "timestamp": "2025-03-31 22:46:22"
+  },
+  {
+    "image_path": "./data/k400/extracted_frames/cooking_chicken/-CTvtfED6Ak_000191_000201_frame2.jpg",
+    "activity_type": "cooking_chicken",
+    "llm_output": {
+      "choices": [
+        {
+          "finish_reason": "stop",
+          "index": 0,
+          "message": {
+            "content": "I see a person standing in front of a building.</s>",
+            "role": "assistant"
+          }
+        }
+      ],
+      "created": 1743479183,
+      "id": "chatcmpl-u6XdACjJI6nRwfaD47gLVkZQEC9IzDnX",
+      "model": "LLaMA_CPP",
+      "object": "chat.completion",
+      "usage": {
+        "completion_tokens": 12,
+        "prompt_tokens": 39,
+        "total_tokens": 51
+      }
+    },
+    "timestamp": "2025-03-31 22:46:23"
+  },
+  {
+    "image_path": "./data/k400/extracted_frames/cooking_chicken/-CTvtfED6Ak_000191_000201_frame3.jpg",
+    "activity_type": "cooking_chicken",
+    "llm_output": {
+      "choices": [
+        {
+          "finish_reason": "stop",
+          "index": 0,
+          "message": {
+            "content": "I see a person standing in front of a building.</s>",
+            "role": "assistant"
+          }
+        }
+      ],
+      "created": 1743479184,
+      "id": "chatcmpl-vuK9TmcEUBXu8azEHO1t4PAYt3BDj8Q9",
+      "model": "LLaMA_CPP",
+      "object": "chat.completion",
+      "usage": {
+        "completion_tokens": 12,
+        "prompt_tokens": 39,
+        "total_tokens": 51
+      }
+    },
+    "timestamp": "2025-03-31 22:46:24"
+  },
+  {
+    "image_path": "./data/k400/extracted_frames/cooking_chicken/-CTvtfED6Ak_000191_000201_frame1.jpg",
+    "activity_type": "cooking_chicken",
+    "llm_output": {
+      "choices": [
+        {
+          "finish_reason": "stop",
+          "index": 0,
+          "message": {
+            "content": "I see a person standing in front of a building, possibly a church. The person is wearing a black shirt and appears to be looking at something. The building is in the background, and there is a clock on the wall.</s>",
+            "role": "assistant"
+          }
+        }
+      ],
+      "created": 1743479187,
+      "id": "chatcmpl-vTNxUhOdGIQJsyn5TYRsEUAd5XnRvEXO",
+      "model": "LLaMA_CPP",
+      "object": "chat.completion",
+      "usage": {
+        "completion_tokens": 49,
+        "prompt_tokens": 39,
+        "total_tokens": 88
+      }
+    },
+    "timestamp": "2025-03-31 22:46:27"
+  },
+  {
+    "image_path": "./data/k400/extracted_frames/cooking_chicken/-07Ke73N4zI_000612_000622_frame2.jpg",
+    "activity_type": "cooking_chicken",
+    "llm_output": {
+      "choices": [
+        {
+          "finish_reason": "stop",
+          "index": 0,
+          "message": {
+            "content": "I see a person standing in front of a building.</s>",
+            "role": "assistant"
+          }
+        }
+      ],
+      "created": 1743479188,
+      "id": "chatcmpl-5eaxgvOj5vY1fLinwWwkZ83tFuSfizss",
+      "model": "LLaMA_CPP",
+      "object": "chat.completion",
+      "usage": {
+        "completion_tokens": 12,
+        "prompt_tokens": 39,
+        "total_tokens": 51
+      }
+    },
+    "timestamp": "2025-03-31 22:46:28"
+  },
+  {
+    "image_path": "./data/k400/extracted_frames/cooking_chicken/-07Ke73N4zI_000612_000622_frame3.jpg",
+    "activity_type": "cooking_chicken",
+    "llm_output": {
+      "choices": [
+        {
+          "finish_reason": "stop",
+          "index": 0,
+          "message": {
+            "content": "I see a person standing in a room.</s>",
+            "role": "assistant"
+          }
+        }
+      ],
+      "created": 1743479189,
+      "id": "chatcmpl-RyFrNhFozS0PFHseiWQ7nvM9qUzmdsZr",
+      "model": "LLaMA_CPP",
+      "object": "chat.completion",
+      "usage": {
+        "completion_tokens": 10,
+        "prompt_tokens": 39,
+        "total_tokens": 49
+      }
+    },
+    "timestamp": "2025-03-31 22:46:29"
+  },
+  {
+    "image_path": "./data/k400/extracted_frames/cooking_chicken/-07Ke73N4zI_000612_000622_frame1.jpg",
+    "activity_type": "cooking_chicken",
+    "llm_output": {
+      "choices": [
+        {
+          "finish_reason": "stop",
+          "index": 0,
+          "message": {
+            "content": "I see a person sitting in a chair.</s>",
+            "role": "assistant"
+          }
+        }
+      ],
+      "created": 1743479189,
+      "id": "chatcmpl-EnCMheZo3nV2ryOXadwzxF4GvSx77kV9",
+      "model": "LLaMA_CPP",
+      "object": "chat.completion",
+      "usage": {
+        "completion_tokens": 10,
+        "prompt_tokens": 39,
+        "total_tokens": 49
+      }
+    },
+    "timestamp": "2025-03-31 22:46:29"
+  },
+  {
+    "image_path": "./data/k400/extracted_frames/cleaning_shoes/-G0edSS6FD0_000002_000012_frame1.jpg",
+    "activity_type": "cleaning_shoes",
+    "llm_output": {
+      "choices": [
+        {
+          "finish_reason": "stop",
+          "index": 0,
+          "message": {
+            "content": "I see a person standing in front of a building.</s>",
+            "role": "assistant"
+          }
+        }
+      ],
+      "created": 1743479190,
+      "id": "chatcmpl-MKkiMHuCQmdj5Io0V6AWFVhKdvWBryAm",
+      "model": "LLaMA_CPP",
+      "object": "chat.completion",
+      "usage": {
+        "completion_tokens": 12,
+        "prompt_tokens": 39,
+        "total_tokens": 51
+      }
+    },
+    "timestamp": "2025-03-31 22:46:30"
+  },
+  {
+    "image_path": "./data/k400/extracted_frames/cleaning_shoes/-G0edSS6FD0_000002_000012_frame3.jpg",
+    "activity_type": "cleaning_shoes",
+    "llm_output": {
+      "choices": [
+        {
+          "finish_reason": "stop",
+          "index": 0,
+          "message": {
+            "content": "I see a person in a black and white photo. They are standing in front of a building, and there is a clock on the wall. The photo appears to be vintage, giving it a sense of history.</s>",
+            "role": "assistant"
+          }
+        }
+      ],
+      "created": 1743479193,
+      "id": "chatcmpl-GNj5kNp9taeHwZfDBNLYBbqHBOEr3Rax",
+      "model": "LLaMA_CPP",
+      "object": "chat.completion",
+      "usage": {
+        "completion_tokens": 46,
+        "prompt_tokens": 39,
+        "total_tokens": 85
+      }
+    },
+    "timestamp": "2025-03-31 22:46:33"
+  },
+  {
+    "image_path": "./data/k400/extracted_frames/cleaning_shoes/-G0edSS6FD0_000002_000012_frame2.jpg",
+    "activity_type": "cleaning_shoes",
+    "llm_output": {
+      "choices": [
+        {
+          "finish_reason": "stop",
+          "index": 0,
+          "message": {
+            "content": "I see a person with a backpack on, standing in front of a building.</s>",
+            "role": "assistant"
+          }
+        }
+      ],
+      "created": 1743479194,
+      "id": "chatcmpl-YGrGOYgGgZ9sVdoemKVK2OaLR9uVIrfr",
+      "model": "LLaMA_CPP",
+      "object": "chat.completion",
+      "usage": {
+        "completion_tokens": 18,
+        "prompt_tokens": 39,
+        "total_tokens": 57
+      }
+    },
+    "timestamp": "2025-03-31 22:46:34"
+  },
+  {
+    "image_path": "./data/k400/extracted_frames/cleaning_shoes/-G8hcU6PpfI_000050_000060_frame1.jpg",
+    "activity_type": "cleaning_shoes",
+    "llm_output": {
+      "choices": [
+        {
+          "finish_reason": "stop",
+          "index": 0,
+          "message": {
+            "content": "I see a person with a backpack on, standing in front of a building.</s>",
+            "role": "assistant"
+          }
+        }
+      ],
+      "created": 1743479196,
+      "id": "chatcmpl-3YUMKkpBh634gpR4fnR3bG1KAYA0yssZ",
+      "model": "LLaMA_CPP",
+      "object": "chat.completion",
+      "usage": {
+        "completion_tokens": 18,
+        "prompt_tokens": 39,
+        "total_tokens": 57
+      }
+    },
+    "timestamp": "2025-03-31 22:46:36"
+  },
+  {
+    "image_path": "./data/k400/extracted_frames/cleaning_shoes/-G8hcU6PpfI_000050_000060_frame3.jpg",
+    "activity_type": "cleaning_shoes",
+    "llm_output": {
+      "choices": [
+        {
+          "finish_reason": "stop",
+          "index": 0,
+          "message": {
+            "content": "I see a person sitting on a chair, wearing a black shirt.</s>",
+            "role": "assistant"
+          }
+        }
+      ],
+      "created": 1743479197,
+      "id": "chatcmpl-0Sqbii1W68kMQWwVWUApqaOTxFdHjPE7",
+      "model": "LLaMA_CPP",
+      "object": "chat.completion",
+      "usage": {
+        "completion_tokens": 17,
+        "prompt_tokens": 39,
+        "total_tokens": 56
+      }
+    },
+    "timestamp": "2025-03-31 22:46:37"
+  },
+  {
+    "image_path": "./data/k400/extracted_frames/cleaning_shoes/-G8hcU6PpfI_000050_000060_frame2.jpg",
+    "activity_type": "cleaning_shoes",
+    "llm_output": {
+      "choices": [
+        {
+          "finish_reason": "stop",
+          "index": 0,
+          "message": {
+            "content": "I see a person standing in front of a building.</s>",
+            "role": "assistant"
+          }
+        }
+      ],
+      "created": 1743479198,
+      "id": "chatcmpl-4lYuzROWFHhWj2s9GXuQgsyH7qEPTF4T",
+      "model": "LLaMA_CPP",
+      "object": "chat.completion",
+      "usage": {
+        "completion_tokens": 12,
+        "prompt_tokens": 39,
+        "total_tokens": 51
+      }
+    },
+    "timestamp": "2025-03-31 22:46:38"
+  },
+  {
+    "image_path": "./data/k400/extracted_frames/carrying_baby/-3I-5fQwkbo_000021_000031_frame1.jpg",
+    "activity_type": "carrying_baby",
+    "llm_output": {
+      "choices": [
+        {
+          "finish_reason": "stop",
+          "index": 0,
+          "message": {
+            "content": "I see a person standing in front of a building.</s>",
+            "role": "assistant"
+          }
+        }
+      ],
+      "created": 1743479199,
+      "id": "chatcmpl-kD7ryR2zm8h27yR9DOlqKxKEXgMI56nj",
+      "model": "LLaMA_CPP",
+      "object": "chat.completion",
+      "usage": {
+        "completion_tokens": 12,
+        "prompt_tokens": 39,
+        "total_tokens": 51
+      }
+    },
+    "timestamp": "2025-03-31 22:46:39"
+  },
+  {
+    "image_path": "./data/k400/extracted_frames/carrying_baby/-3I-5fQwkbo_000021_000031_frame2.jpg",
+    "activity_type": "carrying_baby",
+    "llm_output": {
+      "choices": [
+        {
+          "finish_reason": "stop",
+          "index": 0,
+          "message": {
+            "content": "I see a person standing in front of a building.</s>",
+            "role": "assistant"
+          }
+        }
+      ],
+      "created": 1743479200,
+      "id": "chatcmpl-bIT8lXWtCjWnSzW3xtBz7Soz5ek26Uyx",
+      "model": "LLaMA_CPP",
+      "object": "chat.completion",
+      "usage": {
+        "completion_tokens": 12,
+        "prompt_tokens": 39,
+        "total_tokens": 51
+      }
+    },
+    "timestamp": "2025-03-31 22:46:40"
+  },
+  {
+    "image_path": "./data/k400/extracted_frames/carrying_baby/-3I-5fQwkbo_000021_000031_frame3.jpg",
+    "activity_type": "carrying_baby",
+    "llm_output": {
+      "choices": [
+        {
+          "finish_reason": "stop",
+          "index": 0,
+          "message": {
+            "content": "I see a person standing in front of a building, wearing a backpack.</s>",
+            "role": "assistant"
+          }
+        }
+      ],
+      "created": 1743479201,
+      "id": "chatcmpl-ZycZJpgAOnzlDN0Sxk0KjYCqv28lOLO3",
+      "model": "LLaMA_CPP",
+      "object": "chat.completion",
+      "usage": {
+        "completion_tokens": 18,
+        "prompt_tokens": 39,
+        "total_tokens": 57
+      }
+    },
+    "timestamp": "2025-03-31 22:46:41"
+  },
+  {
+    "image_path": "./data/k400/extracted_frames/carrying_baby/-AiEBWTeJ9M_000016_000026_frame3.jpg",
+    "activity_type": "carrying_baby",
+    "llm_output": {
+      "choices": [
+        {
+          "finish_reason": "stop",
+          "index": 0,
+          "message": {
+            "content": "I see a person standing in front of a building.</s>",
+            "role": "assistant"
+          }
+        }
+      ],
+      "created": 1743479202,
+      "id": "chatcmpl-TElntqDjtV45JQcfUsz0bySj91lBTrzo",
+      "model": "LLaMA_CPP",
+      "object": "chat.completion",
+      "usage": {
+        "completion_tokens": 12,
+        "prompt_tokens": 39,
+        "total_tokens": 51
+      }
+    },
+    "timestamp": "2025-03-31 22:46:42"
+  },
+  {
+    "image_path": "./data/k400/extracted_frames/carrying_baby/-AiEBWTeJ9M_000016_000026_frame2.jpg",
+    "activity_type": "carrying_baby",
+    "llm_output": {
+      "choices": [
+        {
+          "finish_reason": "stop",
+          "index": 0,
+          "message": {
+            "content": "I see a man standing in front of a building. He is wearing a suit and tie, and appears to be dressed for a formal occasion.</s>",
+            "role": "assistant"
+          }
+        }
+      ],
+      "created": 1743479204,
+      "id": "chatcmpl-9pW3AjiHfwIihEqPar8f9zN5HhhszBB2",
+      "model": "LLaMA_CPP",
+      "object": "chat.completion",
+      "usage": {
+        "completion_tokens": 31,
+        "prompt_tokens": 39,
+        "total_tokens": 70
+      }
+    },
+    "timestamp": "2025-03-31 22:46:44"
+  },
+  {
+    "image_path": "./data/k400/extracted_frames/carrying_baby/-AiEBWTeJ9M_000016_000026_frame1.jpg",
+    "activity_type": "carrying_baby",
+    "llm_output": {
+      "choices": [
+        {
+          "finish_reason": "stop",
+          "index": 0,
+          "message": {
+            "content": "[img-1] This is a picture of a person.</s>",
+            "role": "assistant"
+          }
+        }
+      ],
+      "created": 1743479205,
+      "id": "chatcmpl-1sPByHfn9iOtZgUj3aDZ6EmhjoAueS01",
+      "model": "LLaMA_CPP",
+      "object": "chat.completion",
+      "usage": {
+        "completion_tokens": 14,
+        "prompt_tokens": 39,
+        "total_tokens": 53
+      }
+    },
+    "timestamp": "2025-03-31 22:46:45"
+  },
+  {
+    "image_path": "./data/k400/extracted_frames/carrying_baby/-GFyw4mGNdA_000136_000146_frame1.jpg",
+    "activity_type": "carrying_baby",
+    "llm_output": {
+      "choices": [
+        {
+          "finish_reason": "stop",
+          "index": 0,
+          "message": {
+            "content": "I see a person standing in front of a building.</s>",
+            "role": "assistant"
+          }
+        }
+      ],
+      "created": 1743479206,
+      "id": "chatcmpl-BDi6YqmyeNajNRHr8YWi4R772VOCqqOH",
+      "model": "LLaMA_CPP",
+      "object": "chat.completion",
+      "usage": {
+        "completion_tokens": 12,
+        "prompt_tokens": 39,
+        "total_tokens": 51
+      }
+    },
+    "timestamp": "2025-03-31 22:46:46"
+  },
+  {
+    "image_path": "./data/k400/extracted_frames/carrying_baby/-GFyw4mGNdA_000136_000146_frame3.jpg",
+    "activity_type": "carrying_baby",
+    "llm_output": {
+      "choices": [
+        {
+          "finish_reason": "stop",
+          "index": 0,
+          "message": {
+            "content": "I see a person standing in front of a building.</s>",
+            "role": "assistant"
+          }
+        }
+      ],
+      "created": 1743479207,
+      "id": "chatcmpl-AlLkoD5QR3I9RriEY1GrPpgfRM4gCpiK",
+      "model": "LLaMA_CPP",
+      "object": "chat.completion",
+      "usage": {
+        "completion_tokens": 12,
+        "prompt_tokens": 39,
+        "total_tokens": 51
+      }
+    },
+    "timestamp": "2025-03-31 22:46:47"
+  },
+  {
+    "image_path": "./data/k400/extracted_frames/carrying_baby/-GFyw4mGNdA_000136_000146_frame2.jpg",
+    "activity_type": "carrying_baby",
+    "llm_output": {
+      "choices": [
+        {
+          "finish_reason": "stop",
+          "index": 0,
+          "message": {
+            "content": "I see a person standing in front of a building.</s>",
+            "role": "assistant"
+          }
+        }
+      ],
+      "created": 1743479208,
+      "id": "chatcmpl-bbzaWCQi1jYRrovsmflNmwjXsKaIqSO5",
+      "model": "LLaMA_CPP",
+      "object": "chat.completion",
+      "usage": {
+        "completion_tokens": 12,
+        "prompt_tokens": 39,
+        "total_tokens": 51
+      }
+    },
+    "timestamp": "2025-03-31 22:46:48"
+  },
+  {
+    "image_path": "./data/k400/extracted_frames/carrying_baby/-9S9N0PxO60_000328_000338_frame3.jpg",
+    "activity_type": "carrying_baby",
+    "llm_output": {
+      "choices": [
+        {
+          "finish_reason": "stop",
+          "index": 0,
+          "message": {
+            "content": "I see a person standing in front of a building.</s>",
+            "role": "assistant"
+          }
+        }
+      ],
+      "created": 1743479209,
+      "id": "chatcmpl-U2tN8uY0fVl8JYm8Vhjiw7WLAZdjm2MA",
+      "model": "LLaMA_CPP",
+      "object": "chat.completion",
+      "usage": {
+        "completion_tokens": 12,
+        "prompt_tokens": 39,
+        "total_tokens": 51
+      }
+    },
+    "timestamp": "2025-03-31 22:46:49"
+  },
+  {
+    "image_path": "./data/k400/extracted_frames/carrying_baby/-9S9N0PxO60_000328_000338_frame2.jpg",
+    "activity_type": "carrying_baby",
+    "llm_output": {
+      "choices": [
+        {
+          "finish_reason": "stop",
+          "index": 0,
+          "message": {
+            "content": "I see a person wearing a black shirt and a white cap. They are standing in front of a building.</s>",
+            "role": "assistant"
+          }
+        }
+      ],
+      "created": 1743479211,
+      "id": "chatcmpl-61efsgRilyPUhGiFvDKDWQfqcb46XnMC",
+      "model": "LLaMA_CPP",
+      "object": "chat.completion",
+      "usage": {
+        "completion_tokens": 25,
+        "prompt_tokens": 39,
+        "total_tokens": 64
+      }
+    },
+    "timestamp": "2025-03-31 22:46:51"
+  },
+  {
+    "image_path": "./data/k400/extracted_frames/carrying_baby/-9S9N0PxO60_000328_000338_frame1.jpg",
+    "activity_type": "carrying_baby",
+    "llm_output": {
+      "choices": [
+        {
+          "finish_reason": "stop",
+          "index": 0,
+          "message": {
+            "content": "I see a person standing in a field, wearing a black shirt.</s>",
+            "role": "assistant"
+          }
+        }
+      ],
+      "created": 1743479212,
+      "id": "chatcmpl-s4mWiLzaIRYwIpXtbgdTYBy5MEIgEylE",
+      "model": "LLaMA_CPP",
+      "object": "chat.completion",
+      "usage": {
+        "completion_tokens": 17,
+        "prompt_tokens": 39,
+        "total_tokens": 56
+      }
+    },
+    "timestamp": "2025-03-31 22:46:52"
+  },
+  {
+    "image_path": "./data/k400/extracted_frames/carrying_baby/-81JqO-EIo8_000090_000100_frame3.jpg",
+    "activity_type": "carrying_baby",
+    "llm_output": {
+      "choices": [
+        {
+          "finish_reason": "stop",
+          "index": 0,
+          "message": {
+            "content": "I see a person standing in a field, holding a baseball bat. The person is wearing a baseball uniform and appears to be ready to play. The field is surrounded by a forest, creating a serene and natural setting for the game.</s>",
+            "role": "assistant"
+          }
+        }
+      ],
+      "created": 1743479215,
+      "id": "chatcmpl-2grtxsK8KZoThyYLcqRsCAqBpHzyawiA",
+      "model": "LLaMA_CPP",
+      "object": "chat.completion",
+      "usage": {
+        "completion_tokens": 50,
+        "prompt_tokens": 39,
+        "total_tokens": 89
+      }
+    },
+    "timestamp": "2025-03-31 22:46:55"
+  },
+  {
+    "image_path": "./data/k400/extracted_frames/carrying_baby/-81JqO-EIo8_000090_000100_frame2.jpg",
+    "activity_type": "carrying_baby",
+    "llm_output": {
+      "choices": [
+        {
+          "finish_reason": "stop",
+          "index": 0,
+          "message": {
+            "content": "I see a person standing in front of a building.</s>",
+            "role": "assistant"
+          }
+        }
+      ],
+      "created": 1743479216,
+      "id": "chatcmpl-0dS1PExVlbrrod1FboKCW1eomwfGZRjP",
+      "model": "LLaMA_CPP",
+      "object": "chat.completion",
+      "usage": {
+        "completion_tokens": 12,
+        "prompt_tokens": 39,
+        "total_tokens": 51
+      }
+    },
+    "timestamp": "2025-03-31 22:46:56"
+  },
+  {
+    "image_path": "./data/k400/extracted_frames/carrying_baby/-81JqO-EIo8_000090_000100_frame1.jpg",
+    "activity_type": "carrying_baby",
+    "llm_output": {
+      "choices": [
+        {
+          "finish_reason": "stop",
+          "index": 0,
+          "message": {
+            "content": "I see a person standing in a room.</s>",
+            "role": "assistant"
+          }
+        }
+      ],
+      "created": 1743479217,
+      "id": "chatcmpl-V76Z8HbXbZxIlxo22Ds9rV8ds4slCMIB",
+      "model": "LLaMA_CPP",
+      "object": "chat.completion",
+      "usage": {
+        "completion_tokens": 10,
+        "prompt_tokens": 39,
+        "total_tokens": 49
+      }
+    },
+    "timestamp": "2025-03-31 22:46:57"
+  },
+  {
+    "image_path": "./data/k400/extracted_frames/cleaning_floor/-AXEH6stPG4_000014_000024_frame2.jpg",
+    "activity_type": "cleaning_floor",
+    "llm_output": {
+      "choices": [
+        {
+          "finish_reason": "stop",
+          "index": 0,
+          "message": {
+            "content": "I see a person standing in front of a large building. The building appears to be a church, as indicated by the presence of a cross on its facade. The person is wearing a backpack, which is placed on their back. The scene is set in a city environment, with the church being a prominent landmark in the area.</s>",
+            "role": "assistant"
+          }
+        }
+      ],
+      "created": 1743479221,
+      "id": "chatcmpl-XjBuvifFztmZuJXrFLOblgOsa8860p2e",
+      "model": "LLaMA_CPP",
+      "object": "chat.completion",
+      "usage": {
+        "completion_tokens": 71,
+        "prompt_tokens": 39,
+        "total_tokens": 110
+      }
+    },
+    "timestamp": "2025-03-31 22:47:01"
+  },
+  {
+    "image_path": "./data/k400/extracted_frames/cleaning_floor/-AXEH6stPG4_000014_000024_frame3.jpg",
+    "activity_type": "cleaning_floor",
+    "llm_output": {
+      "choices": [
+        {
+          "finish_reason": "stop",
+          "index": 0,
+          "message": {
+            "content": "I see a person standing in front of a building.</s>",
+            "role": "assistant"
+          }
+        }
+      ],
+      "created": 1743479222,
+      "id": "chatcmpl-BMwiPaNYdFPbnbQejNxZfqanosX9SDA6",
+      "model": "LLaMA_CPP",
+      "object": "chat.completion",
+      "usage": {
+        "completion_tokens": 12,
+        "prompt_tokens": 39,
+        "total_tokens": 51
+      }
+    },
+    "timestamp": "2025-03-31 22:47:02"
+  },
+  {
+    "image_path": "./data/k400/extracted_frames/cleaning_floor/-AXEH6stPG4_000014_000024_frame1.jpg",
+    "activity_type": "cleaning_floor",
+    "llm_output": {
+      "choices": [
+        {
+          "finish_reason": "stop",
+          "index": 0,
+          "message": {
+            "content": "I see a person standing in a field.</s>",
+            "role": "assistant"
+          }
+        }
+      ],
+      "created": 1743479223,
+      "id": "chatcmpl-sR0IpAWMuuSBoLlUS2ke5b7GfxW6ZcVT",
+      "model": "LLaMA_CPP",
+      "object": "chat.completion",
+      "usage": {
+        "completion_tokens": 10,
+        "prompt_tokens": 39,
+        "total_tokens": 49
+      }
+    },
+    "timestamp": "2025-03-31 22:47:03"
+  },
+  {
+    "image_path": "./data/k400/extracted_frames/cleaning_floor/-LLThrOykZw_000032_000042_frame3.jpg",
+    "activity_type": "cleaning_floor",
+    "llm_output": {
+      "choices": [
+        {
+          "finish_reason": "stop",
+          "index": 0,
+          "message": {
+            "content": "I see a person sitting in a chair.</s>",
+            "role": "assistant"
+          }
+        }
+      ],
+      "created": 1743479224,
+      "id": "chatcmpl-SNduBJE56lKM5tOc4SsdkusykPKDOZxl",
+      "model": "LLaMA_CPP",
+      "object": "chat.completion",
+      "usage": {
+        "completion_tokens": 10,
+        "prompt_tokens": 39,
+        "total_tokens": 49
+      }
+    },
+    "timestamp": "2025-03-31 22:47:04"
+  },
+  {
+    "image_path": "./data/k400/extracted_frames/cleaning_floor/-LLThrOykZw_000032_000042_frame2.jpg",
+    "activity_type": "cleaning_floor",
+    "llm_output": {
+      "choices": [
+        {
+          "finish_reason": "stop",
+          "index": 0,
+          "message": {
+            "content": "I see a person standing in front of a building.</s>",
+            "role": "assistant"
+          }
+        }
+      ],
+      "created": 1743479225,
+      "id": "chatcmpl-sVDHwOeHJuojLIYUFLZjKMecvuTuu9jc",
+      "model": "LLaMA_CPP",
+      "object": "chat.completion",
+      "usage": {
+        "completion_tokens": 12,
+        "prompt_tokens": 39,
+        "total_tokens": 51
+      }
+    },
+    "timestamp": "2025-03-31 22:47:05"
+  },
+  {
+    "image_path": "./data/k400/extracted_frames/cleaning_floor/-LLThrOykZw_000032_000042_frame1.jpg",
+    "activity_type": "cleaning_floor",
+    "llm_output": {
+      "choices": [
+        {
+          "finish_reason": "stop",
+          "index": 0,
+          "message": {
+            "content": "I see a person standing in front of a building.</s>",
+            "role": "assistant"
+          }
+        }
+      ],
+      "created": 1743479226,
+      "id": "chatcmpl-14sWignbUtNEaWqH1ZbQ2ZbBGxwTBms3",
+      "model": "LLaMA_CPP",
+      "object": "chat.completion",
+      "usage": {
+        "completion_tokens": 12,
+        "prompt_tokens": 39,
+        "total_tokens": 51
+      }
+    },
+    "timestamp": "2025-03-31 22:47:06"
+  },
+  {
+    "image_path": "./data/k400/extracted_frames/cleaning_floor/-9v4IlCbtiE_000001_000011_frame1.jpg",
+    "activity_type": "cleaning_floor",
+    "llm_output": {
+      "choices": [
+        {
+          "finish_reason": "stop",
+          "index": 0,
+          "message": {
+            "content": "I see a person sitting in a chair.</s>",
+            "role": "assistant"
+          }
+        }
+      ],
+      "created": 1743479227,
+      "id": "chatcmpl-YZB5JCnGxcbM7RkAfkfSLaNdw6JyKa24",
+      "model": "LLaMA_CPP",
+      "object": "chat.completion",
+      "usage": {
+        "completion_tokens": 10,
+        "prompt_tokens": 39,
+        "total_tokens": 49
+      }
+    },
+    "timestamp": "2025-03-31 22:47:07"
+  },
+  {
+    "image_path": "./data/k400/extracted_frames/cleaning_floor/-AJHzAwk3PE_000029_000039_frame2.jpg",
+    "activity_type": "cleaning_floor",
+    "llm_output": {
+      "choices": [
+        {
+          "finish_reason": "stop",
+          "index": 0,
+          "message": {
+            "content": "I see a person standing in front of a building.</s>",
+            "role": "assistant"
+          }
+        }
+      ],
+      "created": 1743479229,
+      "id": "chatcmpl-OSsVAcZNBIEgOpbwDBugLgTptx5iYsjd",
+      "model": "LLaMA_CPP",
+      "object": "chat.completion",
+      "usage": {
+        "completion_tokens": 12,
+        "prompt_tokens": 39,
+        "total_tokens": 51
+      }
+    },
+    "timestamp": "2025-03-31 22:47:09"
+  },
+  {
+    "image_path": "./data/k400/extracted_frames/cleaning_floor/-AJHzAwk3PE_000029_000039_frame3.jpg",
+    "activity_type": "cleaning_floor",
+    "llm_output": {
+      "choices": [
+        {
+          "finish_reason": "stop",
+          "index": 0,
+          "message": {
+            "content": "I see a person standing in front of a building.</s>",
+            "role": "assistant"
+          }
+        }
+      ],
+      "created": 1743479230,
+      "id": "chatcmpl-fX3njBwqDsdanNyVnDRemmeoTUcoBEnm",
+      "model": "LLaMA_CPP",
+      "object": "chat.completion",
+      "usage": {
+        "completion_tokens": 12,
+        "prompt_tokens": 39,
+        "total_tokens": 51
+      }
+    },
+    "timestamp": "2025-03-31 22:47:10"
+  },
+  {
+    "image_path": "./data/k400/extracted_frames/cleaning_floor/-9v4IlCbtiE_000001_000011_frame2.jpg",
+    "activity_type": "cleaning_floor",
+    "llm_output": {
+      "choices": [
+        {
+          "finish_reason": "stop",
+          "index": 0,
+          "message": {
+            "content": "I see a person sitting in a chair, wearing a black shirt. The person appears to be looking at something, possibly a computer screen or a book.</s>",
+            "role": "assistant"
+          }
+        }
+      ],
+      "created": 1743479232,
+      "id": "chatcmpl-0vr0WzW7pFpBvTRa2hPDsCM2cYkR0Y9Y",
+      "model": "LLaMA_CPP",
+      "object": "chat.completion",
+      "usage": {
+        "completion_tokens": 34,
+        "prompt_tokens": 39,
+        "total_tokens": 73
+      }
+    },
+    "timestamp": "2025-03-31 22:47:12"
+  },
+  {
+    "image_path": "./data/k400/extracted_frames/cleaning_floor/-AJHzAwk3PE_000029_000039_frame1.jpg",
+    "activity_type": "cleaning_floor",
+    "llm_output": {
+      "choices": [
+        {
+          "finish_reason": "stop",
+          "index": 0,
+          "message": {
+            "content": "I see a person standing in front of a building.</s>",
+            "role": "assistant"
+          }
+        }
+      ],
+      "created": 1743479234,
+      "id": "chatcmpl-T7YOxNLTFEe7Z1SDqaCnfpQGR8CSHHbG",
+      "model": "LLaMA_CPP",
+      "object": "chat.completion",
+      "usage": {
+        "completion_tokens": 12,
+        "prompt_tokens": 39,
+        "total_tokens": 51
+      }
+    },
+    "timestamp": "2025-03-31 22:47:14"
+  },
+  {
+    "image_path": "./data/k400/extracted_frames/cleaning_floor/-9v4IlCbtiE_000001_000011_frame3.jpg",
+    "activity_type": "cleaning_floor",
+    "llm_output": {
+      "choices": [
+        {
+          "finish_reason": "stop",
+          "index": 0,
+          "message": {
+            "content": "[img-1] I see a person standing in front of a building.</s>",
+            "role": "assistant"
+          }
+        }
+      ],
+      "created": 1743479235,
+      "id": "chatcmpl-LKmYo5V2tcBv9gSgAR9C5LUsfePp9eNX",
+      "model": "LLaMA_CPP",
+      "object": "chat.completion",
+      "usage": {
+        "completion_tokens": 17,
+        "prompt_tokens": 39,
+        "total_tokens": 56
+      }
+    },
+    "timestamp": "2025-03-31 22:47:15"
+  },
+  {
+    "image_path": "./data/k400/extracted_frames/yoga/-L1yIZqIZws_003098_003108_frame1.jpg",
+    "activity_type": "yoga",
+    "llm_output": {
+      "choices": [
+        {
+          "finish_reason": "stop",
+          "index": 0,
+          "message": {
+            "content": "I see a person standing in a field, surrounded by a forest. The person is wearing a backpack and appears to be looking at something in the distance.</s>",
+            "role": "assistant"
+          }
+        }
+      ],
+      "created": 1743479238,
+      "id": "chatcmpl-Rtbw5Kgb6yBsdY7IX4LVxGeG56Zhryj6",
+      "model": "LLaMA_CPP",
+      "object": "chat.completion",
+      "usage": {
+        "completion_tokens": 34,
+        "prompt_tokens": 39,
+        "total_tokens": 73
+      }
+    },
+    "timestamp": "2025-03-31 22:47:18"
+  },
+  {
+    "image_path": "./data/k400/extracted_frames/yoga/-L1yIZqIZws_003098_003108_frame3.jpg",
+    "activity_type": "yoga",
+    "llm_output": {
+      "choices": [
+        {
+          "finish_reason": "stop",
+          "index": 0,
+          "message": {
+            "content": "I see a person sitting at a desk, likely working or studying. The desk has a computer on it, and there are a few books scattered around the area. The person appears to be focused on their task, and the overall atmosphere seems calm and quiet.</s>",
+            "role": "assistant"
+          }
+        }
+      ],
+      "created": 1743479244,
+      "id": "chatcmpl-kc2OkoUapJqbAqM7x54XbMFNgxpPaX1z",
+      "model": "LLaMA_CPP",
+      "object": "chat.completion",
+      "usage": {
+        "completion_tokens": 55,
+        "prompt_tokens": 39,
+        "total_tokens": 94
+      }
+    },
+    "timestamp": "2025-03-31 22:47:24"
+  },
+  {
+    "image_path": "./data/k400/extracted_frames/yoga/-L1yIZqIZws_003098_003108_frame2.jpg",
+    "activity_type": "yoga",
+    "llm_output": {
+      "choices": [
+        {
+          "finish_reason": "stop",
+          "index": 0,
+          "message": {
+            "content": "I see a person standing in front of a building.</s>",
+            "role": "assistant"
+          }
+        }
+      ],
+      "created": 1743479245,
+      "id": "chatcmpl-RFCo9IoFeO0BmVMaUo7LypOc3ykJ3m0C",
+      "model": "LLaMA_CPP",
+      "object": "chat.completion",
+      "usage": {
+        "completion_tokens": 12,
+        "prompt_tokens": 39,
+        "total_tokens": 51
+      }
+    },
+    "timestamp": "2025-03-31 22:47:25"
+  },
+  {
+    "image_path": "./data/k400/extracted_frames/making_pizza/-Fs-zEnMYgc_000354_000364_frame1.jpg",
+    "activity_type": "making_pizza",
+    "llm_output": {
+      "choices": [
+        {
+          "finish_reason": "stop",
+          "index": 0,
+          "message": {
+            "content": "I see a person standing in front of a building.</s>",
+            "role": "assistant"
+          }
+        }
+      ],
+      "created": 1743479247,
+      "id": "chatcmpl-3Yie78qdwV6J4bGlmhUEB9ZXHgcwD7Lb",
+      "model": "LLaMA_CPP",
+      "object": "chat.completion",
+      "usage": {
+        "completion_tokens": 12,
+        "prompt_tokens": 39,
+        "total_tokens": 51
+      }
+    },
+    "timestamp": "2025-03-31 22:47:27"
+  },
+  {
+    "image_path": "./data/k400/extracted_frames/making_pizza/-Fs-zEnMYgc_000354_000364_frame3.jpg",
+    "activity_type": "making_pizza",
+    "llm_output": {
+      "choices": [
+        {
+          "finish_reason": "stop",
+          "index": 0,
+          "message": {
+            "content": "I see a man in a black shirt and blue jeans standing in front of a building.</s>",
+            "role": "assistant"
+          }
+        }
+      ],
+      "created": 1743479250,
+      "id": "chatcmpl-tYMpj9VCdlzCpLXJu7JdGSrjsI4f111y",
+      "model": "LLaMA_CPP",
+      "object": "chat.completion",
+      "usage": {
+        "completion_tokens": 21,
+        "prompt_tokens": 39,
+        "total_tokens": 60
+      }
+    },
+    "timestamp": "2025-03-31 22:47:30"
+  },
+  {
+    "image_path": "./data/k400/extracted_frames/making_pizza/-Fs-zEnMYgc_000354_000364_frame2.jpg",
+    "activity_type": "making_pizza",
+    "llm_output": {
+      "choices": [
+        {
+          "finish_reason": "stop",
+          "index": 0,
+          "message": {
+            "content": "I see a person standing in front of a building.</s>",
+            "role": "assistant"
+          }
+        }
+      ],
+      "created": 1743479252,
+      "id": "chatcmpl-5R5ARkyTOdWqv1znPQjowkms0gu1wdNO",
+      "model": "LLaMA_CPP",
+      "object": "chat.completion",
+      "usage": {
+        "completion_tokens": 12,
+        "prompt_tokens": 39,
+        "total_tokens": 51
+      }
+    },
+    "timestamp": "2025-03-31 22:47:32"
+  },
+  {
+    "image_path": "./data/k400/extracted_frames/making_pizza/-GKnuhPmiwM_000016_000026_frame3.jpg",
+    "activity_type": "making_pizza",
+    "llm_output": {
+      "choices": [
+        {
+          "finish_reason": "stop",
+          "index": 0,
+          "message": {
+            "content": "I see a person standing in a field, possibly a farmer or a worker. They are wearing a hat and appear to be looking at something, possibly a task or an object in the field.</s>",
+            "role": "assistant"
+          }
+        }
+      ],
+      "created": 1743479258,
+      "id": "chatcmpl-TkC6X3W6nBUQQEgSs5ncJY5kd8oPctvW",
+      "model": "LLaMA_CPP",
+      "object": "chat.completion",
+      "usage": {
+        "completion_tokens": 42,
+        "prompt_tokens": 39,
+        "total_tokens": 81
+      }
+    },
+    "timestamp": "2025-03-31 22:47:38"
+  },
+  {
+    "image_path": "./data/k400/extracted_frames/making_pizza/-GKnuhPmiwM_000016_000026_frame2.jpg",
+    "activity_type": "making_pizza",
+    "llm_output": {
+      "choices": [
+        {
+          "finish_reason": "stop",
+          "index": 0,
+          "message": {
+            "content": "I see a person standing in front of a building.</s>",
+            "role": "assistant"
+          }
+        }
+      ],
+      "created": 1743479260,
+      "id": "chatcmpl-OikWOuAuL2VzHV0B0G9L4uF1NvQScA2h",
+      "model": "LLaMA_CPP",
+      "object": "chat.completion",
+      "usage": {
+        "completion_tokens": 12,
+        "prompt_tokens": 39,
+        "total_tokens": 51
+      }
+    },
+    "timestamp": "2025-03-31 22:47:40"
+  },
+  {
+    "image_path": "./data/k400/extracted_frames/making_pizza/-GKnuhPmiwM_000016_000026_frame1.jpg",
+    "activity_type": "making_pizza",
+    "llm_output": {
+      "choices": [
+        {
+          "finish_reason": "stop",
+          "index": 0,
+          "message": {
+            "content": "I see a person standing in front of a building, which appears to be a church. The person is wearing a white robe, which suggests that they might be a priest or a religious figure. The scene also includes a handbag placed nearby.</s>",
+            "role": "assistant"
+          }
+        }
+      ],
+      "created": 1743479271,
+      "id": "chatcmpl-iqF6OaiRWEvecN0MycSJ27BoB8tXXeM3",
+      "model": "LLaMA_CPP",
+      "object": "chat.completion",
+      "usage": {
+        "completion_tokens": 52,
+        "prompt_tokens": 39,
+        "total_tokens": 91
+      }
+    },
+    "timestamp": "2025-03-31 22:47:51"
+  },
+  {
+    "image_path": "./data/k400/extracted_frames/cleaning_windows/-Bk9MdOqzTY_000023_000033_frame1.jpg",
+    "activity_type": "cleaning_windows",
+    "llm_output": {
+      "choices": [
+        {
+          "finish_reason": "stop",
+          "index": 0,
+          "message": {
+            "content": "I see a person standing in front of a building.</s>",
+            "role": "assistant"
+          }
+        }
+      ],
+      "created": 1743479274,
+      "id": "chatcmpl-iALsWfaa00Bs1mOAh6cX2xJZ3xvm4LJE",
+      "model": "LLaMA_CPP",
+      "object": "chat.completion",
+      "usage": {
+        "completion_tokens": 12,
+        "prompt_tokens": 39,
+        "total_tokens": 51
+      }
+    },
+    "timestamp": "2025-03-31 22:47:54"
+  },
+  {
+    "image_path": "./data/k400/extracted_frames/cleaning_windows/-Bk9MdOqzTY_000023_000033_frame2.jpg",
+    "activity_type": "cleaning_windows",
+    "llm_output": {
+      "choices": [
+        {
+          "finish_reason": "stop",
+          "index": 0,
+          "message": {
+            "content": "I see a person standing in a field, with a backpack on their back. They appear to be looking at something in the distance, possibly a point of interest or a destination. The field is surrounded by a forest, adding a sense of depth and natural beauty to the scene.</s>",
+            "role": "assistant"
+          }
+        }
+      ],
+      "created": 1743479286,
+      "id": "chatcmpl-3h6ADBA0vIwwDLpLt74r7mwPfzY2mPGJ",
+      "model": "LLaMA_CPP",
+      "object": "chat.completion",
+      "usage": {
+        "completion_tokens": 58,
+        "prompt_tokens": 39,
+        "total_tokens": 97
+      }
+    },
+    "timestamp": "2025-03-31 22:48:06"
+  },
+  {
+    "image_path": "./data/k400/extracted_frames/cleaning_windows/-Bk9MdOqzTY_000023_000033_frame3.jpg",
+    "activity_type": "cleaning_windows",
+    "llm_output": {
+      "choices": [
+        {
+          "finish_reason": "stop",
+          "index": 0,
+          "message": {
+            "content": "I see a person standing in front of a building.</s>",
+            "role": "assistant"
+          }
+        }
+      ],
+      "created": 1743479290,
+      "id": "chatcmpl-9HEoj70SeOCtyK6pBRBH3eD8Lh2nnO4Y",
+      "model": "LLaMA_CPP",
+      "object": "chat.completion",
+      "usage": {
+        "completion_tokens": 12,
+        "prompt_tokens": 39,
+        "total_tokens": 51
+      }
+    },
+    "timestamp": "2025-03-31 22:48:10"
+  },
+  {
+    "image_path": "./data/k400/extracted_frames/cleaning_windows/-9QfMtbGuq0_000006_000016_frame2.jpg",
+    "activity_type": "cleaning_windows",
+    "llm_output": {
+      "choices": [
+        {
+          "finish_reason": "stop",
+          "index": 0,
+          "message": {
+            "content": "I see a person standing in front of a building.</s>",
+            "role": "assistant"
+          }
+        }
+      ],
+      "created": 1743479294,
+      "id": "chatcmpl-RpOKuw4Z9CVW8enpI3F2oXT4g2rRj2jY",
+      "model": "LLaMA_CPP",
+      "object": "chat.completion",
+      "usage": {
+        "completion_tokens": 12,
+        "prompt_tokens": 39,
+        "total_tokens": 51
+      }
+    },
+    "timestamp": "2025-03-31 22:48:14"
+  },
+  {
+    "image_path": "./data/k400/extracted_frames/cleaning_windows/-9QfMtbGuq0_000006_000016_frame3.jpg",
+    "activity_type": "cleaning_windows",
+    "llm_output": {
+      "choices": [
+        {
+          "finish_reason": "stop",
+          "index": 0,
+          "message": {
+            "content": "I see a person in a white shirt and black shorts.</s>",
+            "role": "assistant"
+          }
+        }
+      ],
+      "created": 1743479297,
+      "id": "chatcmpl-9t3LNq7Jk0gcs1X4jmhSziPJvTVW4jbN",
+      "model": "LLaMA_CPP",
+      "object": "chat.completion",
+      "usage": {
+        "completion_tokens": 15,
+        "prompt_tokens": 39,
+        "total_tokens": 54
+      }
+    },
+    "timestamp": "2025-03-31 22:48:17"
+  },
+  {
+    "image_path": "./data/k400/extracted_frames/cleaning_windows/-9QfMtbGuq0_000006_000016_frame1.jpg",
+    "activity_type": "cleaning_windows",
+    "llm_output": {
+      "choices": [
+        {
+          "finish_reason": "stop",
+          "index": 0,
+          "message": {
+            "content": "I see a person standing in front of a building.</s>",
+            "role": "assistant"
+          }
+        }
+      ],
+      "created": 1743479300,
+      "id": "chatcmpl-UTHsBwT7i2CPL1wKPK4w1AAKAs0z7MzP",
+      "model": "LLaMA_CPP",
+      "object": "chat.completion",
+      "usage": {
+        "completion_tokens": 12,
+        "prompt_tokens": 39,
+        "total_tokens": 51
+      }
+    },
+    "timestamp": "2025-03-31 22:48:20"
+  },
+  {
+    "image_path": "./data/k400/extracted_frames/braiding_hair/-JFUrs_s64k_000014_000024_frame1.jpg",
+    "activity_type": "braiding_hair",
+    "llm_output": {
+      "choices": [
+        {
+          "finish_reason": "stop",
+          "index": 0,
+          "message": {
+            "content": "I see a person standing in a field, possibly a farmer or a worker. The person is wearing a hat and appears to be looking at something in the distance. The field seems to be a part of a farm or a rural landscape.</s>",
+            "role": "assistant"
+          }
+        }
+      ],
+      "created": 1743479307,
+      "id": "chatcmpl-SrEAoFrs4yBecQcxJPWlB6fnJVKeLTve",
+      "model": "LLaMA_CPP",
+      "object": "chat.completion",
+      "usage": {
+        "completion_tokens": 51,
+        "prompt_tokens": 39,
+        "total_tokens": 90
+      }
+    },
+    "timestamp": "2025-03-31 22:48:27"
+  },
+  {
+    "image_path": "./data/k400/extracted_frames/braiding_hair/-JFUrs_s64k_000014_000024_frame2.jpg",
+    "activity_type": "braiding_hair",
+    "llm_output": {
+      "choices": [
+        {
+          "finish_reason": "stop",
+          "index": 0,
+          "message": {
+            "content": "I see a person standing in front of a building.</s>",
+            "role": "assistant"
+          }
+        }
+      ],
+      "created": 1743479309,
+      "id": "chatcmpl-3S4ecUyDfYgzaqYeLXkX4XWZ8fTJPHtV",
+      "model": "LLaMA_CPP",
+      "object": "chat.completion",
+      "usage": {
+        "completion_tokens": 12,
+        "prompt_tokens": 39,
+        "total_tokens": 51
+      }
+    },
+    "timestamp": "2025-03-31 22:48:29"
+  },
+  {
+    "image_path": "./data/k400/extracted_frames/braiding_hair/-JFUrs_s64k_000014_000024_frame3.jpg",
+    "activity_type": "braiding_hair",
+    "llm_output": {
+      "choices": [
+        {
+          "finish_reason": "stop",
+          "index": 0,
+          "message": {
+            "content": "I see a person standing in front of a building.</s>",
+            "role": "assistant"
+          }
+        }
+      ],
+      "created": 1743479311,
+      "id": "chatcmpl-HBArSWr3eIZlIWvmUtOgo84j53IZ2aTd",
+      "model": "LLaMA_CPP",
+      "object": "chat.completion",
+      "usage": {
+        "completion_tokens": 12,
+        "prompt_tokens": 39,
+        "total_tokens": 51
+      }
+    },
+    "timestamp": "2025-03-31 22:48:31"
+  },
+  {
+    "image_path": "./data/k400/extracted_frames/washing_dishes/-AuWiTbwza0_000095_000105_frame1.jpg",
+    "activity_type": "washing_dishes",
+    "llm_output": {
+      "choices": [
+        {
+          "finish_reason": "stop",
+          "index": 0,
+          "message": {
+            "content": "I see a person sitting at a desk, working on a computer. The person appears to be focused on their task, and there is a keyboard and a mouse on the desk in front of them.</s>",
+            "role": "assistant"
+          }
+        }
+      ],
+      "created": 1743479316,
+      "id": "chatcmpl-EwNkfapcclGfjgb42cbGS8EGUeOndmmK",
+      "model": "LLaMA_CPP",
+      "object": "chat.completion",
+      "usage": {
+        "completion_tokens": 43,
+        "prompt_tokens": 39,
+        "total_tokens": 82
+      }
+    },
+    "timestamp": "2025-03-31 22:48:36"
+  },
+  {
+    "image_path": "./data/k400/extracted_frames/washing_dishes/-AuWiTbwza0_000095_000105_frame2.jpg",
+    "activity_type": "washing_dishes",
+    "llm_output": {
+      "choices": [
+        {
+          "finish_reason": "stop",
+          "index": 0,
+          "message": {
+            "content": "I see a person standing in front of a building.</s>",
+            "role": "assistant"
+          }
+        }
+      ],
+      "created": 1743479318,
+      "id": "chatcmpl-POoQYFPg2sOS883Kuop41PUebUoIXz7G",
+      "model": "LLaMA_CPP",
+      "object": "chat.completion",
+      "usage": {
+        "completion_tokens": 12,
+        "prompt_tokens": 39,
+        "total_tokens": 51
+      }
+    },
+    "timestamp": "2025-03-31 22:48:38"
+  },
+  {
+    "image_path": "./data/k400/extracted_frames/washing_dishes/-AuWiTbwza0_000095_000105_frame3.jpg",
+    "activity_type": "washing_dishes",
+    "llm_output": {
+      "choices": [
+        {
+          "finish_reason": "stop",
+          "index": 0,
+          "message": {
+            "content": "I see a person standing in front of a building.</s>",
+            "role": "assistant"
+          }
+        }
+      ],
+      "created": 1743479320,
+      "id": "chatcmpl-qdYkppm94IXQDJ9nKa0HmvgG3dP9AZou",
+      "model": "LLaMA_CPP",
+      "object": "chat.completion",
+      "usage": {
+        "completion_tokens": 12,
+        "prompt_tokens": 39,
+        "total_tokens": 51
+      }
+    },
+    "timestamp": "2025-03-31 22:48:40"
+  },
+  {
+    "image_path": "./data/k400/extracted_frames/making_jewelry/-9O6yFoHI38_000265_000275_frame3.jpg",
+    "activity_type": "making_jewelry",
+    "llm_output": {
+      "choices": [
+        {
+          "finish_reason": "stop",
+          "index": 0,
+          "message": {
+            "content": "I see a person standing in front of a building.</s>",
+            "role": "assistant"
+          }
+        }
+      ],
+      "created": 1743479322,
+      "id": "chatcmpl-Z3kFq7HqrxTqfInyISXYaFZYLcG3LAMq",
+      "model": "LLaMA_CPP",
+      "object": "chat.completion",
+      "usage": {
+        "completion_tokens": 12,
+        "prompt_tokens": 39,
+        "total_tokens": 51
+      }
+    },
+    "timestamp": "2025-03-31 22:48:42"
+  },
+  {
+    "image_path": "./data/k400/extracted_frames/making_jewelry/-9O6yFoHI38_000265_000275_frame2.jpg",
+    "activity_type": "making_jewelry",
+    "llm_output": {
+      "choices": [
+        {
+          "finish_reason": "stop",
+          "index": 0,
+          "message": {
+            "content": "I see a person wearing a black shirt.</s>",
+            "role": "assistant"
+          }
+        }
+      ],
+      "created": 1743479325,
+      "id": "chatcmpl-ktFUbUefQzhTCENqWkuVmXRdDYFWQ6pL",
+      "model": "LLaMA_CPP",
+      "object": "chat.completion",
+      "usage": {
+        "completion_tokens": 12,
+        "prompt_tokens": 39,
+        "total_tokens": 51
+      }
+    },
+    "timestamp": "2025-03-31 22:48:45"
+  },
+  {
+    "image_path": "./data/k400/extracted_frames/making_jewelry/-9O6yFoHI38_000265_000275_frame1.jpg",
+    "activity_type": "making_jewelry",
+    "llm_output": {
+      "choices": [
+        {
+          "finish_reason": "stop",
+          "index": 0,
+          "message": {
+            "content": "I see a person standing in front of a building.</s>",
+            "role": "assistant"
+          }
+        }
+      ],
+      "created": 1743479327,
+      "id": "chatcmpl-9h6DL8dFrlbiNfaGfQSTRnbCWLXAMIgV",
+      "model": "LLaMA_CPP",
+      "object": "chat.completion",
+      "usage": {
+        "completion_tokens": 12,
+        "prompt_tokens": 39,
+        "total_tokens": 51
+      }
+    },
+    "timestamp": "2025-03-31 22:48:47"
+  },
+  {
+    "image_path": "./data/k400/extracted_frames/making_jewelry/-7duEtZ0WU8_000519_000529_frame2.jpg",
+    "activity_type": "making_jewelry",
+    "llm_output": {
+      "choices": [
+        {
+          "finish_reason": "stop",
+          "index": 0,
+          "message": {
+            "content": "I see a person standing in front of a building.</s>",
+            "role": "assistant"
+          }
+        }
+      ],
+      "created": 1743479329,
+      "id": "chatcmpl-5z0G3ApfqokFh0ziV5usmjradg7sErrK",
+      "model": "LLaMA_CPP",
+      "object": "chat.completion",
+      "usage": {
+        "completion_tokens": 12,
+        "prompt_tokens": 39,
+        "total_tokens": 51
+      }
+    },
+    "timestamp": "2025-03-31 22:48:49"
+  },
+  {
+    "image_path": "./data/k400/extracted_frames/making_jewelry/-7duEtZ0WU8_000519_000529_frame3.jpg",
+    "activity_type": "making_jewelry",
+    "llm_output": {
+      "choices": [
+        {
+          "finish_reason": "stop",
+          "index": 0,
+          "message": {
+            "content": "I see a person standing in front of a building.</s>",
+            "role": "assistant"
+          }
+        }
+      ],
+      "created": 1743479331,
+      "id": "chatcmpl-C3kvFlF1aNBdCpmN9zXkrp7VCoGsTCZe",
+      "model": "LLaMA_CPP",
+      "object": "chat.completion",
+      "usage": {
+        "completion_tokens": 12,
+        "prompt_tokens": 39,
+        "total_tokens": 51
+      }
+    },
+    "timestamp": "2025-03-31 22:48:51"
+  },
+  {
+    "image_path": "./data/k400/extracted_frames/making_jewelry/-7duEtZ0WU8_000519_000529_frame1.jpg",
+    "activity_type": "making_jewelry",
+    "llm_output": {
+      "choices": [
+        {
+          "finish_reason": "stop",
+          "index": 0,
+          "message": {
+            "content": "I see a person standing in front of a building.</s>",
+            "role": "assistant"
+          }
+        }
+      ],
+      "created": 1743479333,
+      "id": "chatcmpl-udiQb3Q3AhGyXWgbl88O1SealsGXL1fz",
+      "model": "LLaMA_CPP",
+      "object": "chat.completion",
+      "usage": {
+        "completion_tokens": 12,
+        "prompt_tokens": 39,
+        "total_tokens": 51
+      }
+    },
+    "timestamp": "2025-03-31 22:48:53"
+  },
+  {
+    "image_path": "./data/k400/extracted_frames/making_jewelry/-2FruMQDUR0_000081_000091_frame3.jpg",
+    "activity_type": "making_jewelry",
+    "llm_output": {
+      "choices": [
+        {
+          "finish_reason": "stop",
+          "index": 0,
+          "message": {
+            "content": "I see a person standing in front of a building.</s>",
+            "role": "assistant"
+          }
+        }
+      ],
+      "created": 1743479335,
+      "id": "chatcmpl-FBm8APhIpmiZzoFqAiaRHl9tPekX7m00",
+      "model": "LLaMA_CPP",
+      "object": "chat.completion",
+      "usage": {
+        "completion_tokens": 12,
+        "prompt_tokens": 39,
+        "total_tokens": 51
+      }
+    },
+    "timestamp": "2025-03-31 22:48:55"
+  },
+  {
+    "image_path": "./data/k400/extracted_frames/making_jewelry/-2FruMQDUR0_000081_000091_frame2.jpg",
+    "activity_type": "making_jewelry",
+    "llm_output": {
+      "choices": [
+        {
+          "finish_reason": "stop",
+          "index": 0,
+          "message": {
+            "content": "I see a person standing in front of a building.</s>",
+            "role": "assistant"
+          }
+        }
+      ],
+      "created": 1743479337,
+      "id": "chatcmpl-LIQ1GpzvNPuWicpkW7OzpQTJbsiAsn89",
+      "model": "LLaMA_CPP",
+      "object": "chat.completion",
+      "usage": {
+        "completion_tokens": 12,
+        "prompt_tokens": 39,
+        "total_tokens": 51
+      }
+    },
+    "timestamp": "2025-03-31 22:48:57"
+  },
+  {
+    "image_path": "./data/k400/extracted_frames/making_jewelry/-2FruMQDUR0_000081_000091_frame1.jpg",
+    "activity_type": "making_jewelry",
+    "llm_output": {
+      "choices": [
+        {
+          "finish_reason": "stop",
+          "index": 0,
+          "message": {
+            "content": "I see a person standing in front of a building.</s>",
+            "role": "assistant"
+          }
+        }
+      ],
+      "created": 1743479339,
+      "id": "chatcmpl-7ALszAuDzuLK7uMOjc8A2luX53EUlMpW",
+      "model": "LLaMA_CPP",
+      "object": "chat.completion",
+      "usage": {
+        "completion_tokens": 12,
+        "prompt_tokens": 39,
+        "total_tokens": 51
+      }
+    },
+    "timestamp": "2025-03-31 22:48:59"
+  },
+  {
+    "image_path": "./data/k400/extracted_frames/cleaning_pool/-ICEa3_eQp4_000033_000043_frame3.jpg",
+    "activity_type": "cleaning_pool",
+    "llm_output": {
+      "choices": [
+        {
+          "finish_reason": "stop",
+          "index": 0,
+          "message": {
+            "content": "I see a man standing in front of a building, wearing a suit and tie. He appears to be a businessman, possibly walking to or from work.</s>",
+            "role": "assistant"
+          }
+        }
+      ],
+      "created": 1743479343,
+      "id": "chatcmpl-IN7kBinKn6iKjBsffF1pIRtmUfuIBPA5",
+      "model": "LLaMA_CPP",
+      "object": "chat.completion",
+      "usage": {
+        "completion_tokens": 34,
+        "prompt_tokens": 39,
+        "total_tokens": 73
+      }
+    },
+    "timestamp": "2025-03-31 22:49:03"
+  }
+]
