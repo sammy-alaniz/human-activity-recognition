@@ -4,12 +4,12 @@ import time
 
 # Initialize with local model path. Can also read .mf.gz files, but we recommend decompressing
 # up-front to avoid decompression overhead every time the model is initialized.
-model = md.vl(model="/Users/samuelalaniz/dev/moondream-0_5b-int4.mf")
+model = md.vl(model="/Users/samuelalaniz/dev/llms/moondream-2b-int8.mf")
 
 
 
 # Load and process image
-image = Image.open("/Users/samuelalaniz/dev/burger-1.png")
+image = Image.open("/Users/samuelalaniz/dev/school/human-signals/project/1-ws/human-activity-recognition/data/k400/extracted_frames/cooking_chicken/-07Ke73N4zI_000612_000622_frame1.jpg")
 cpu_optimal_size = (224, 224)
 resized_image = image.resize(cpu_optimal_size, Image.BILINEAR)
 rgb_image = resized_image.convert('RGB')
