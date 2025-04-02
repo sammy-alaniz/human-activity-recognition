@@ -1,6 +1,8 @@
 .DS_Store
 venv/
 
+tmp/
+
 k400/
 k400_targz/
 
