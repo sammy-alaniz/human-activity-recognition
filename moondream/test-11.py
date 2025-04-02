@@ -5,7 +5,7 @@ import time
 # Initialize with local model path. Can also read .mf.gz files, but we recommend decompressing
 # up-front to avoid decompression overhead every time the model is initialized.
 model = md.vl(model="/Users/samuelalaniz/dev/llms/moondream-2b-int8.mf")
-
+# model = md.vl(model="/Users/samuelalaniz/dev/llms/moondream-0_5b-int4.mf")
 
 
 # Load and process image
@@ -18,6 +18,14 @@ start_time = time.time()
 encoded_image = model.encode_image(resized_image)
 delta_time = time.time() - start_time
 print(f"Image encoding time: {delta_time:.4f} seconds")
+
+# Generate caption
+start_time = time.time()
+answer = model.query(encoded_image, "Human eating food? (yes/no)")["answer"]
+delta_time = time.time() - start_time
+print(f"Image query time: {delta_time:.4f} seconds")
+
+print("Answer:", answer)
 
 # Generate caption
 start_time = time.time()
