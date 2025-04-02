@@ -1,0 +1,2510 @@
+[
+    {
+        "activity": "cooking_chicken",
+        "filename": "-6zh0xWFWT4_000036_000046_frame3.jpg",
+        "encoding-time": 3.5531959533691406,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as there is a pot of food on the stove, and a spoon is being used to stir the contents.",
+                6.31271505355835,
+                "Correctly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning a cake or a similar food item using a sponge. The sponge is used to scrub the surface of the cake or food item, which is likely to be a cake or a similar baked good.",
+                9.237498044967651,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "cooking_chicken",
+        "filename": "-6zh0xWFWT4_000036_000046_frame2.jpg",
+        "encoding-time": 3.5359621047973633,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as there is a package of what looks like a microwave oven on the counter.",
+                5.036664009094238,
+                "Correctly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning up a mess, as there are various items on the table, such as a bottle, a cup, and a cup, which seem to be in a disorderly state. The presence of a cup and a bottle suggests that the person might be mixing or mixing different liquids, while the scattered items on the table indicate that they might have been in the process of mixing or mixing various liquids. The person cleaning up the mess might be using the items as part of their cleaning routine, or they might have just finished mixing or mixing the liquids.",
+                24.43346381187439,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "cooking_chicken",
+        "filename": "-6zh0xWFWT4_000036_000046_frame1.jpg",
+        "encoding-time": 3.708395004272461,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as there is a pot with a lid and a spoon in it. The pot is placed on a countertop, and the spoon is also present. The cooking process seems to be underway, as the pot is being stirred or stirred with the spoon.",
+                12.657482147216797,
+                "Correctly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning up a spilled drink, as there are a few bottles and a cup on the floor. The person might be wiping the mess with a cloth or sponge, and the spilled liquid is likely to be cleaned up later. The presence of a bottle and a cup suggests that the liquid might be dirty or unappealing, which the person might need to scrub and sanitize to remove any contaminants.",
+                18.757023096084595,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "cooking_chicken",
+        "filename": "-BptOURMao8_000398_000408_frame2.jpg",
+        "encoding-time": 3.862717866897583,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking the food in the oven.",
+                3.270920991897583,
+                "Correctly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning the hot dogs in the oven using a brush.",
+                4.243194103240967,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "cooking_chicken",
+        "filename": "-BptOURMao8_000398_000408_frame3.jpg",
+        "encoding-time": 4.042352199554443,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking the food on the stove.",
+                3.2329978942871094,
+                "Correctly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning the hot dogs in the oven using a brush.",
+                4.056818962097168,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "cooking_chicken",
+        "filename": "-BptOURMao8_000398_000408_frame1.jpg",
+        "encoding-time": 3.89955472946167,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking the food on the stove.",
+                3.1852259635925293,
+                "Correctly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning the hot dogs in the oven using a brush.",
+                4.083310127258301,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "cooking_chicken",
+        "filename": "-CTvtfED6Ak_000191_000201_frame2.jpg",
+        "encoding-time": 3.983173131942749,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as there are three pieces of bread on a grill, and they are being used to cook the food.",
+                7.180555582046509,
+                "Correctly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning up the food that has been left on the floor.",
+                4.832251787185669,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "cooking_chicken",
+        "filename": "-CTvtfED6Ak_000191_000201_frame3.jpg",
+        "encoding-time": 3.9225010871887207,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as there are three pieces of bread on a grill, and they are being used to cook the food.",
+                6.543700933456421,
+                "Correctly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning up the food that has been left on the floor.",
+                4.637455701828003,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "cooking_chicken",
+        "filename": "-CTvtfED6Ak_000191_000201_frame1.jpg",
+        "encoding-time": 4.273627042770386,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as there are three pieces of bread on a grill, and the person is using a spatula to handle the bread. This suggests that the person is preparing food, possibly a sandwich or a wrap, in a hot outdoor setting. The use of a spatula indicates that the person is actively engaged in cooking, which is a common practice in various settings, such as picnics, barbecues, or outdoor gatherings.",
+                21.532133102416992,
+                "Correctly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning up the food that has been left on the floor.",
+                4.510655403137207,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "cooking_chicken",
+        "filename": "-07Ke73N4zI_000612_000622_frame2.jpg",
+        "encoding-time": 4.229562997817993,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as they are using a pot to stir a mixture of vegetables and possibly meat.",
+                6.211187124252319,
+                "Correctly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning in the kitchen, as they are using a cloth to wipe their hands and face while doing so.",
+                7.154323101043701,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "cooking_chicken",
+        "filename": "-07Ke73N4zI_000612_000622_frame3.jpg",
+        "encoding-time": 4.624801158905029,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as they are using a pot to stir and cook a mixture of ingredients.",
+                6.516901969909668,
+                "Correctly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning up a mess in the kitchen, as they are using a spoon to stir the contents of a pot on the stove.",
+                9.337776899337769,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "cooking_chicken",
+        "filename": "-07Ke73N4zI_000612_000622_frame1.jpg",
+        "encoding-time": 5.190814256668091,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as evidenced by the presence of a pot with food on it, a spoon, and a frying pan. The pot is likely being used for boiling or cooking the food.",
+                12.828064203262329,
+                "Correctly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning up the food that is being served in the pan.",
+                6.053696155548096,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "cleaning_shoes",
+        "filename": "-G0edSS6FD0_000002_000012_frame1.jpg",
+        "encoding-time": 5.650001287460327,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as the text \"Quick Tips from Mom!\" is written in a kitchen-themed manner.",
+                8.298352003097534,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning up from the mess, as there are many white items in the image, which seem to be the contents of a bag or a container.",
+                11.89485502243042,
+                "Correctly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "cleaning_shoes",
+        "filename": "-G0edSS6FD0_000002_000012_frame3.jpg",
+        "encoding-time": 5.646736145019531,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as there is a frying pan with a frying pan next to a pair of shoes. This suggests that the person might be preparing food or cleaning the shoes before they start cooking.",
+                14.112121105194092,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning their shoes, specifically their white sneakers.",
+                5.451984882354736,
+                "Correctly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "cleaning_shoes",
+        "filename": "-G0edSS6FD0_000002_000012_frame2.jpg",
+        "encoding-time": 6.604691982269287,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as there is a frying pan with food in it next to the person's feet.",
+                8.323387145996094,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning their feet while wearing the black and white sneakers.",
+                5.732609987258911,
+                "Correctly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "cleaning_shoes",
+        "filename": "-G8hcU6PpfI_000050_000060_frame1.jpg",
+        "encoding-time": 5.716324090957642,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as evidenced by the presence of a blender and a box of hot dogs on the table. The person might be preparing a hot dog or a similar type of food using the blender, while the box of hot dogs is likely a packaging or a product for use in the cooking process. The combination of these items suggests that the person is engaged in a cooking activity, possibly involving the use of the blender and the hot dogs.",
+                27.052052974700928,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning up a shoe on the table.",
+                4.455316781997681,
+                "Correctly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "cleaning_shoes",
+        "filename": "-G8hcU6PpfI_000050_000060_frame3.jpg",
+        "encoding-time": 5.653962850570679,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as there is a frying pan with a hot pan on the table.",
+                7.1549460887908936,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning up a spilled drink. The spilled liquid is on the floor, and a bottle is nearby. The person is using a cloth or a rag to clean the spill, which is a common practice to prevent the spread of bacteria and germs.",
+                16.028231859207153,
+                "Correctly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "cleaning_shoes",
+        "filename": "-G8hcU6PpfI_000050_000060_frame2.jpg",
+        "encoding-time": 5.005181789398193,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as evidenced by the presence of a blender and a box of food on the counter. The person is using the blender to blend the ingredients, while the box of food is likely to be consumed or used as a substitute for the blended ingredients. The scene suggests that someone is preparing a meal or a quick snack using the blender and the food box.",
+                21.47783589363098,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning up a mess on the floor, as they are using a red and white box to scrub the area.",
+                8.141402006149292,
+                "Correctly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "carrying_baby",
+        "filename": "-3I-5fQwkbo_000021_000031_frame1.jpg",
+        "encoding-time": 5.1569859981536865,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as they are holding a cooking utensil and a piece of food.",
+                6.7346031665802,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning in the image. The person is holding a cleaning tool and appears to be actively engaged in the process.",
+                8.221182823181152,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "carrying_baby",
+        "filename": "-3I-5fQwkbo_000021_000031_frame2.jpg",
+        "encoding-time": 5.0035059452056885,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as they are using a pot to stir something in a pan. The person is wearing a pink dress and apron, which suggests they are preparing a meal.",
+                11.276047945022583,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning their hands, as they are holding a sponge and scrubbing their hands.",
+                6.473233222961426,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "carrying_baby",
+        "filename": "-3I-5fQwkbo_000021_000031_frame3.jpg",
+        "encoding-time": 4.97179913520813,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as they are using a frying pan to cook something on the stove.",
+                6.420783758163452,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning their feet. The image shows a person sitting on the floor with a pair of feet in a sock, and there are other items around them, such as a bottle and a cup. This suggests that the person is engaged in cleaning activities, possibly after getting out of their bath or shower.",
+                18.241904735565186,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "carrying_baby",
+        "filename": "-AiEBWTeJ9M_000016_000026_frame3.jpg",
+        "encoding-time": 5.134476184844971,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as the person is using a frying pan to cook something.",
+                6.404630899429321,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning their face, possibly using a sponge or a towel to scrub their skin.",
+                6.506991863250732,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "carrying_baby",
+        "filename": "-AiEBWTeJ9M_000016_000026_frame2.jpg",
+        "encoding-time": 4.991314172744751,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as they are holding a frying pan with a spoon in it. This suggests that the person might be preparing a dish or a hot food item.",
+                11.200494289398193,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning their hands, as they are holding them up to their face and actively scrubbing them.",
+                8.32006025314331,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "carrying_baby",
+        "filename": "-AiEBWTeJ9M_000016_000026_frame1.jpg",
+        "encoding-time": 5.644118070602417,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as they are holding a frying pan over a hot pan, which is a common tool used in cooking.",
+                9.62932014465332,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning their hands, as they are holding a sponge and scrubbing their hands.",
+                7.6668689250946045,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "carrying_baby",
+        "filename": "-GFyw4mGNdA_000136_000146_frame1.jpg",
+        "encoding-time": 5.857454776763916,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking in the kitchen. A woman is standing in the middle of the room, holding a pot or pan, and there are various items on the floor, such as a bottle and a bowl. The presence of the cooking utensil and the cooking-related items suggest that the person is preparing food.",
+                20.055230379104614,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning in the room. The woman is holding a cloth and appears to be wiping or scrubbing the floor.",
+                13.476619005203247,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "carrying_baby",
+        "filename": "-GFyw4mGNdA_000136_000146_frame3.jpg",
+        "encoding-time": 5.528196096420288,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking in the image. A woman is holding a baby while standing in a room with a baby crib.",
+                8.253989219665527,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning in the store, as they are holding a child and cleaning clothes.",
+                7.170318126678467,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "carrying_baby",
+        "filename": "-GFyw4mGNdA_000136_000146_frame2.jpg",
+        "encoding-time": 5.433336973190308,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking in the kitchen. A man is holding a baby while another person is standing next to him, and there are various items on the counter.",
+                10.822020053863525,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning in the room. The woman is holding a child and appears to be scrubbing the floor.",
+                7.867414236068726,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "carrying_baby",
+        "filename": "-9S9N0PxO60_000328_000338_frame3.jpg",
+        "encoding-time": 5.214221000671387,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as there is a pot on the stove with a spoon in it. The person is likely using the pot to stir or cook something in the pan, which is a common tool in the kitchen. The presence of the pot and the spoon further support the idea that someone is engaged in cooking.",
+                18.876739978790283,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning their hands, as they are holding a sponge and scrubbing their hands.",
+                6.8392369747161865,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "carrying_baby",
+        "filename": "-9S9N0PxO60_000328_000338_frame2.jpg",
+        "encoding-time": 5.168597936630249,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as there is a pot on the stove with a spoon in it. The person is likely using the stove to prepare a meal or cooking something.",
+                10.684822082519531,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning their face using a sponge. The person is focused on the task, and the sponge is being used to scrub their face, which is a common practice to remove dirt, grime, and stains from the face.",
+                15.489192962646484,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "carrying_baby",
+        "filename": "-9S9N0PxO60_000328_000338_frame1.jpg",
+        "encoding-time": 5.649713039398193,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as there is a microwave in the image. The person is likely using the microwave to heat or cook food, which is a common activity in the kitchen.",
+                11.803148984909058,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning their face using a sponge. The person is holding the sponge up to their face, and there is a bottle nearby. The presence of the sponge and the cleaning action suggest that the person is actively cleaning their face to remove dirt, dust, or other particles.",
+                19.08040189743042,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "carrying_baby",
+        "filename": "-81JqO-EIo8_000090_000100_frame3.jpg",
+        "encoding-time": 5.465799808502197,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as the image shows a man in a kitchen preparing food.",
+                7.835907697677612,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning, as there is a spray bottle in the image. The person might be using the spray bottle to clean their face or body, or they could be using it to wipe their face. The presence of the spray bottle suggests that the person is actively engaged in cleaning or preparing to do so.",
+                20.937571048736572,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "carrying_baby",
+        "filename": "-81JqO-EIo8_000090_000100_frame2.jpg",
+        "encoding-time": 5.374463081359863,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as they are using a spatula to stir something in a bowl.",
+                6.836214065551758,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning up the mess created by the child using the broom.",
+                5.693822860717773,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "carrying_baby",
+        "filename": "-81JqO-EIo8_000090_000100_frame1.jpg",
+        "encoding-time": 5.298756122589111,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as they are using a spatula to stir something in a bowl.",
+                6.762614965438843,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning the wall with a sponge.",
+                4.344770908355713,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "cleaning_floor",
+        "filename": "-AXEH6stPG4_000014_000024_frame2.jpg",
+        "encoding-time": 5.166218042373657,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as they are using a cooking utensil to stir something in a pan on the floor.",
+                8.042417287826538,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning the floor using a broom.",
+                4.203273057937622,
+                "Correctly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "cleaning_floor",
+        "filename": "-AXEH6stPG4_000014_000024_frame3.jpg",
+        "encoding-time": 5.110729932785034,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as they are using a cooking utensil to stir something in a pot on the floor.",
+                8.040054082870483,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning in the image, as they are holding a mop and scrubbing the floor.",
+                7.188287973403931,
+                "Correctly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "cleaning_floor",
+        "filename": "-AXEH6stPG4_000014_000024_frame1.jpg",
+        "encoding-time": 5.10974383354187,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as they are using a cooking utensil to prepare food on the floor.",
+                7.1733880043029785,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning in the image, as they are holding a mop and a broom while sweeping the floor.",
+                7.802535057067871,
+                "Correctly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "cleaning_floor",
+        "filename": "-LLThrOykZw_000032_000042_frame3.jpg",
+        "encoding-time": 5.303552865982056,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, the image shows a person holding a pan with a lid over a stove, indicating that they are cooking.",
+                6.639475345611572,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning the mirror using a squeegee. The squeegee is being used to apply a liquid or cleaning solution to the mirror's surface.",
+                10.059813737869263,
+                "Correctly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "cleaning_floor",
+        "filename": "-LLThrOykZw_000032_000042_frame2.jpg",
+        "encoding-time": 5.12480902671814,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, the image appears to be a close-up of a kitchen counter with a white stove top. The stove top is positioned on the left side of the image, and there is a white towel hanging on the left side of the counter. The close-up view of the stove top and the towel suggests that someone might be preparing to cook or reheat food in the kitchen.",
+                21.49571919441223,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning the floor using a mop.",
+                4.460970878601074,
+                "Correctly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "cleaning_floor",
+        "filename": "-LLThrOykZw_000032_000042_frame1.jpg",
+        "encoding-time": 5.044614791870117,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as they are using a frying pan on a stovetop with a spatula.",
+                7.0423901081085205,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning the floor using a mop and a broom.",
+                5.164776086807251,
+                "Correctly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "cleaning_floor",
+        "filename": "-9v4IlCbtiE_000001_000011_frame1.jpg",
+        "encoding-time": 5.010227918624878,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as the image shows a spoon with a liquid in it.",
+                5.875635862350464,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning their face using a sponge.",
+                4.054486036300659,
+                "Correctly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "cleaning_floor",
+        "filename": "-AJHzAwk3PE_000029_000039_frame2.jpg",
+        "encoding-time": 4.952818870544434,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking in the kitchen, as there is a green oven mitt on the floor next to the oven.",
+                7.739681005477905,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning the green toilet in the bathroom.",
+                4.326913118362427,
+                "Correctly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "cleaning_floor",
+        "filename": "-AJHzAwk3PE_000029_000039_frame3.jpg",
+        "encoding-time": 4.982795000076294,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, the image appears to be a close-up of a green oven mitt with a handle, which is commonly used for handling hot pans or cooking dishes. The presence of the oven mitt suggests that someone might be preparing or cooking something in the oven.",
+                14.935555219650269,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning the green toilet in the bathroom.",
+                4.353308916091919,
+                "Correctly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "cleaning_floor",
+        "filename": "-9v4IlCbtiE_000001_000011_frame2.jpg",
+        "encoding-time": 5.065945863723755,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking in the kitchen, as there is a frying pan on the stovetop.",
+                6.551976919174194,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning the floor using a mop and a brush.",
+                5.250865936279297,
+                "Correctly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "cleaning_floor",
+        "filename": "-AJHzAwk3PE_000029_000039_frame1.jpg",
+        "encoding-time": 5.104094982147217,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking in the kitchen, as there is a pot on the stove with a green lid.",
+                7.264899730682373,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning the floor using a green vacuum cleaner.",
+                4.661556243896484,
+                "Correctly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "cleaning_floor",
+        "filename": "-9v4IlCbtiE_000001_000011_frame3.jpg",
+        "encoding-time": 5.038684844970703,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as evidenced by the presence of a frying pan with a spoon on it. The cooking process might involve stirring or heating the pan, which is a common tool used for cooking food.",
+                12.433816909790039,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning their hair using a hairbrush.",
+                4.3634960651397705,
+                "Correctly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "yoga",
+        "filename": "-L1yIZqIZws_003098_003108_frame1.jpg",
+        "encoding-time": 5.030353784561157,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking in the room. A man is sitting on the floor next to a stove, and there is a pot on the stove. The presence of the stove and the pot suggests that the person might be preparing a meal or cooking something. The room has a colorful carpet, which adds to the overall ambiance.",
+                18.947576999664307,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning up the room, possibly after a gathering or event.",
+                5.471004009246826,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "yoga",
+        "filename": "-L1yIZqIZws_003098_003108_frame3.jpg",
+        "encoding-time": 5.0364580154418945,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking or preparing something in the kitchen area.",
+                4.618988037109375,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning up after a performance or event, as they are holding a broom and scrubbing the floor.",
+                7.654039144515991,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "yoga",
+        "filename": "-L1yIZqIZws_003098_003108_frame2.jpg",
+        "encoding-time": 5.045831918716431,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking in the scene. A woman is sitting on the floor, holding a pot, while a man is sitting on the floor next to her, holding a pot. The presence of the pot and the woman's actions suggest that she might be preparing a meal or a dish. The setting appears to be a casual, domestic environment, possibly a home or a kitchen.",
+                21.91058897972107,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning up a mess in the room.",
+                4.37782096862793,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "making_pizza",
+        "filename": "-Fs-zEnMYgc_000354_000364_frame1.jpg",
+        "encoding-time": 5.049917936325073,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking in the kitchen.",
+                3.6697070598602295,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning up a mess in the kitchen.",
+                4.378371953964233,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "making_pizza",
+        "filename": "-Fs-zEnMYgc_000354_000364_frame3.jpg",
+        "encoding-time": 5.082746744155884,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking in the kitchen.",
+                3.5588362216949463,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning up a mess in the kitchen.",
+                4.359907865524292,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "making_pizza",
+        "filename": "-Fs-zEnMYgc_000354_000364_frame2.jpg",
+        "encoding-time": 5.042317152023315,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as they are bending over and possibly reaching for food on the stove.",
+                6.52770209312439,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning up a mess in the kitchen, as they are bending over to pick up a dish that is on the counter.",
+                8.719763994216919,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "making_pizza",
+        "filename": "-GKnuhPmiwM_000016_000026_frame3.jpg",
+        "encoding-time": 5.441628932952881,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as the person is holding a frying pan and appears to be preparing food.",
+                6.937641859054565,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning a baby using a cloth or towel.",
+                4.833248138427734,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "making_pizza",
+        "filename": "-GKnuhPmiwM_000016_000026_frame2.jpg",
+        "encoding-time": 5.401820182800293,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as the child is holding a frying pan and appears to be stirring or flipping the pan.",
+                9.39093828201294,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning in the image, as they are holding a brush and scrubbing a child's feet.",
+                7.611984014511108,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "making_pizza",
+        "filename": "-GKnuhPmiwM_000016_000026_frame1.jpg",
+        "encoding-time": 5.232702016830444,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as the child is holding a rolling pin and appears to be rolling a dough or a doughnut.",
+                8.351385116577148,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning up a mess in the kitchen.",
+                4.479743003845215,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "cleaning_windows",
+        "filename": "-Bk9MdOqzTY_000023_000033_frame1.jpg",
+        "encoding-time": 5.164487838745117,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as they are holding a cooking utensil in their hand.",
+                6.355409860610962,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning their hands while using a cell phone.",
+                4.74773907661438,
+                "Correctly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "cleaning_windows",
+        "filename": "-Bk9MdOqzTY_000023_000033_frame2.jpg",
+        "encoding-time": 5.096015691757202,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as they are holding a frying pan and a spoon while preparing food.",
+                6.5639119148254395,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning their hands while using a cell phone.",
+                5.087005853652954,
+                "Correctly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "cleaning_windows",
+        "filename": "-Bk9MdOqzTY_000023_000033_frame3.jpg",
+        "encoding-time": 5.491131782531738,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as they are holding a frying pan and a spoon, which are commonly used in cooking.",
+                8.105144023895264,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning their hands, as they are holding a pair of scissors and scrubbing their hands.",
+                7.551733016967773,
+                "Correctly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "cleaning_windows",
+        "filename": "-9QfMtbGuq0_000006_000016_frame2.jpg",
+        "encoding-time": 5.232771158218384,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, there is a person in the image who appears to be cooking. They are using a frying pan or a large pan to prepare food on the stovetop.",
+                9.473221063613892,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, there is a person cleaning the area outside the building.",
+                4.07038688659668,
+                "Correctly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "cleaning_windows",
+        "filename": "-9QfMtbGuq0_000006_000016_frame3.jpg",
+        "encoding-time": 5.619536876678467,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, there is a person in the image who is cooking. They are using a frying pan or a large wok to prepare food on a table inside a building.",
+                10.065675020217896,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning the inside of a building using a squeegee.",
+                5.368611812591553,
+                "Correctly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "cleaning_windows",
+        "filename": "-9QfMtbGuq0_000006_000016_frame1.jpg",
+        "encoding-time": 5.208126068115234,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, there is a person in the image who appears to be cooking. They are using a frying pan or a large wok to prepare food on the stovetop.",
+                9.736346006393433,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, there is a person cleaning up in the parking lot.",
+                3.9565036296844482,
+                "Correctly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "braiding_hair",
+        "filename": "-JFUrs_s64k_000014_000024_frame1.jpg",
+        "encoding-time": 5.176711797714233,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as the woman is holding a hot plate with a child on her lap.",
+                6.869843244552612,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning the hair of a young boy.",
+                4.4323132038116455,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "braiding_hair",
+        "filename": "-JFUrs_s64k_000014_000024_frame2.jpg",
+        "encoding-time": 5.130774974822998,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, there is a person who appears to be cooking, as they are holding a frying pan over a hot dish.",
+                6.810222148895264,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning up the mess created by the two children sitting on the ground.",
+                6.016876935958862,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "braiding_hair",
+        "filename": "-JFUrs_s64k_000014_000024_frame3.jpg",
+        "encoding-time": 5.048371076583862,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as the woman is holding a frying pan over a child while they sit on the ground.",
+                7.599330902099609,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning the hair of a young girl.",
+                4.377237796783447,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "washing_dishes",
+        "filename": "-AuWiTbwza0_000095_000105_frame1.jpg",
+        "encoding-time": 5.0932018756866455,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as evidenced by the presence of a pot, a frying pan, and a bottle of liquid on the stove. The person might be preparing a meal or cooking a dish.",
+                11.93706202507019,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning the sink.",
+                3.3466897010803223,
+                "Correctly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "washing_dishes",
+        "filename": "-AuWiTbwza0_000095_000105_frame2.jpg",
+        "encoding-time": 5.144608974456787,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking in the kitchen, as they are using a frying pan to stir something in a pot on the stove.",
+                8.269649982452393,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning the sink in the kitchen.",
+                4.703821659088135,
+                "Correctly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "washing_dishes",
+        "filename": "-AuWiTbwza0_000095_000105_frame3.jpg",
+        "encoding-time": 5.903260946273804,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking in the kitchen. The image shows a person standing at the sink with a bottle of wine in front of them, and there is a microwave above the sink. The presence of the wine bottle and the microwave suggest that the person might be preparing a meal or enjoying a beverage while cooking.",
+                19.415338039398193,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning the sink in the kitchen.",
+                4.313951015472412,
+                "Correctly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "making_jewelry",
+        "filename": "-9O6yFoHI38_000265_000275_frame3.jpg",
+        "encoding-time": 5.320718050003052,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as they are using a frying pan to cook food.",
+                5.982686996459961,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning a desk using a sponge and a scrub brush. The person is actively engaged in scrubbing the surface, which suggests that they are cleaning it to remove dirt, dust, or other particles.",
+                14.62760305404663,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "making_jewelry",
+        "filename": "-9O6yFoHI38_000265_000275_frame2.jpg",
+        "encoding-time": 5.8897318840026855,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as evidenced by the presence of a pot on the stove and the person's hand holding a cooking utensil. The person is using a cooking utensil to stir or handle the contents of the pot on the stove. The pot is likely being used for cooking or heating purposes.",
+                18.056627988815308,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning their hands using a sponge and a scrub brush.",
+                4.9096598625183105,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "making_jewelry",
+        "filename": "-9O6yFoHI38_000265_000275_frame1.jpg",
+        "encoding-time": 4.8785400390625,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as they are using a frying pan to cook something in the kitchen.",
+                6.099384784698486,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning up a mess of junk, which includes a pile of old furniture and a pile of items.",
+                6.92199182510376,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "making_jewelry",
+        "filename": "-7duEtZ0WU8_000519_000529_frame2.jpg",
+        "encoding-time": 4.654211044311523,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as they are holding a small, colorful, and decorative dish that resembles a skewer or skewer-like object.",
+                8.344275951385498,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning their hands using a hand sanitizer.",
+                4.409246921539307,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "making_jewelry",
+        "filename": "-7duEtZ0WU8_000519_000529_frame3.jpg",
+        "encoding-time": 4.500028848648071,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as evidenced by the presence of a hot plate and a frying pan on the table. The person is using a frying pan to cook food, and there are various kitchen utensils and items on the table, such as a bottle, a bowl, and a pair of scissors. The combination of cooking and the presence of the hot plate and frying pan suggests that the person is preparing a meal or dish that requires a hot surface, and the use of a frying pan is a common tool for cooking.",
+                26.824960947036743,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning their hands using a sponge and a blue and white toothbrush.",
+                5.355907201766968,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "making_jewelry",
+        "filename": "-7duEtZ0WU8_000519_000529_frame1.jpg",
+        "encoding-time": 4.500617980957031,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as they are holding a small, colorful, and decorative object in their hand.",
+                6.321943998336792,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning their hands using a hand sanitizer.",
+                4.422429800033569,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "making_jewelry",
+        "filename": "-2FruMQDUR0_000081_000091_frame3.jpg",
+        "encoding-time": 4.9907612800598145,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that the man is cooking in the kitchen. He is standing in front of a stove, using a frying pan to cook food. The presence of the frying pan and the man's involvement in cooking suggest that he is preparing a meal.",
+                13.09710693359375,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning in the room. The man is holding a cleaning brush and is actively engaged in cleaning the room.",
+                7.4025678634643555,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "making_jewelry",
+        "filename": "-2FruMQDUR0_000081_000091_frame2.jpg",
+        "encoding-time": 4.659340143203735,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as they are using a small white spatula to stir something in a bowl. The presence of the spoon and the cooking activity suggest that the person is preparing a dish or a meal.",
+                11.928416013717651,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning their hands using a hand sanitizer.",
+                4.611882925033569,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "making_jewelry",
+        "filename": "-2FruMQDUR0_000081_000091_frame1.jpg",
+        "encoding-time": 4.9844441413879395,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as they are using a small frying pan or skillet with a lid and a spatula to stir the contents.",
+                8.122949123382568,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning their hands using a hand sanitizer.",
+                5.150408029556274,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "cleaning_pool",
+        "filename": "-ICEa3_eQp4_000033_000043_frame3.jpg",
+        "encoding-time": 4.897979021072388,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, there is a person cooking on a grill in the image.",
+                4.435621976852417,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning up the pool area.",
+                4.426137208938599,
+                "Correctly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "cleaning_pool",
+        "filename": "-ICEa3_eQp4_000033_000043_frame2.jpg",
+        "encoding-time": 5.281666994094849,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, there is a person cooking in the image, as they are using a cooking device that appears to be a frying pan.",
+                7.971360921859741,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning the area around the pool.",
+                4.705111980438232,
+                "Correctly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "cleaning_pool",
+        "filename": "-ICEa3_eQp4_000033_000043_frame1.jpg",
+        "encoding-time": 5.786884784698486,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, the image appears to show someone cooking outdoors, as they are using a cooking device that is placed over a fire.",
+                8.351850986480713,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning the lake, as there is a hose connected to the lake and the surrounding area.",
+                8.838974237442017,
+                "Correctly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "cleaning_pool",
+        "filename": "-Kzfq-O_qzU_000021_000031_frame1.jpg",
+        "encoding-time": 7.4070587158203125,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking in the image. The person is sitting in a boat, and there is a cooking device nearby.",
+                10.52172327041626,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning in the image. The person is sitting in a chair next to a pool, and there is a towel on their chest.",
+                11.648778915405273,
+                "Correctly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "cleaning_pool",
+        "filename": "-KHhxbEBK0U_000001_000011_frame1.jpg",
+        "encoding-time": 5.849402189254761,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking in the image. The person is standing in front of a grill, which is likely used for grilling food. The person is also wearing a hat while preparing the food.",
+                13.446004152297974,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning inside the fenced area.",
+                4.522715091705322,
+                "Correctly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "cleaning_pool",
+        "filename": "-KHhxbEBK0U_000001_000011_frame3.jpg",
+        "encoding-time": 5.677402973175049,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking in the image. The person is standing in front of a grill, which is likely used for grilling food. The person is also wearing a hat, which might be associated with cooking or outdoor activities. The presence of a grill and the person wearing a hat suggest that they are engaged in an outdoor cooking activity.",
+                20.90517497062683,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning the inside of a cage or a pet kennel.",
+                6.034121036529541,
+                "Correctly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "cleaning_pool",
+        "filename": "-Kzfq-O_qzU_000021_000031_frame3.jpg",
+        "encoding-time": 6.085828065872192,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking in the image. The man is cooking on a stove, and there is a pot nearby.",
+                9.885443687438965,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning in the pool area.",
+                4.219779014587402,
+                "Correctly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "cleaning_pool",
+        "filename": "-Kzfq-O_qzU_000021_000031_frame2.jpg",
+        "encoding-time": 5.498936176300049,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking in the image. The man is cooking on a stove, and there is a frying pan nearby.",
+                8.855385780334473,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning in the pool area.",
+                4.075130939483643,
+                "Correctly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "cleaning_pool",
+        "filename": "-KHhxbEBK0U_000001_000011_frame2.jpg",
+        "encoding-time": 5.656599044799805,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking in the image. The person is standing in front of a grill, which is likely used for grilling food. The person is also wearing a hat, which might be associated with cooking or working in the kitchen. The presence of the grill and the person's attire suggest that they are preparing food in a kitchen setting.",
+                22.09882378578186,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning the area outside the fence. The person is holding a cleaning tool and seems to be actively engaged in the cleaning process.",
+                10.020718097686768,
+                "Correctly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "cleaning_gutters",
+        "filename": "-DNpxXEiq1U_000031_000041_frame1.jpg",
+        "encoding-time": 5.544668197631836,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, the image shows a person cooking, as evidenced by the presence of a frying pan and the use of a frying pan.",
+                8.298915147781372,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning their car using a sponge and a sponge.",
+                5.327937841415405,
+                "Correctly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "cleaning_gutters",
+        "filename": "-DNpxXEiq1U_000031_000041_frame2.jpg",
+        "encoding-time": 5.410179138183594,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as evidenced by the presence of a wok and a large number of people gathered around it. The wok is likely being used for cooking, and the large number of people suggests that they are either participating in an event, gathering, or cooking activity. The scene suggests a communal, social, or communal-related event where people are working together to prepare or cook something.",
+                24.82862114906311,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning in the image, as they are using a spray bottle to do so.",
+                6.927052974700928,
+                "Correctly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "cleaning_gutters",
+        "filename": "-DNpxXEiq1U_000031_000041_frame3.jpg",
+        "encoding-time": 5.326157093048096,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, the image shows a person cooking, as evidenced by the presence of a pot and a frying pan on the stove.",
+                7.493239164352417,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning the inside of a car using a brush.",
+                5.302342891693115,
+                "Correctly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "watering_plants",
+        "filename": "-8E267pU6ZY_000097_000107_frame1.jpg",
+        "encoding-time": 5.7187299728393555,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking in the image, as there is a pot with a lid on a grill in the foreground.",
+                8.523961067199707,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning up a mess in the yard. The presence of a broom and a bucket suggests that the person is actively engaged in cleaning up the area.",
+                11.300318241119385,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "watering_plants",
+        "filename": "-8E267pU6ZY_000097_000107_frame2.jpg",
+        "encoding-time": 5.645775079727173,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking a fire in a fire hydrant.",
+                5.32839298248291,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning the fire hydrant, which is spraying water onto the hydrant and the surrounding area.",
+                8.707988023757935,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "watering_plants",
+        "filename": "-8E267pU6ZY_000097_000107_frame3.jpg",
+        "encoding-time": 5.805240154266357,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as there are ingredients and a frying pan on the ground, suggesting that they are preparing food.",
+                9.501527786254883,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning the area outside the house. The presence of a potted plant and a tarp on the ground indicates that the cleaning activity is likely related to tidying up the outdoor space. The person might be removing leaves, dirt, or other debris from the area to maintain a clean and pleasant environment.",
+                21.586466073989868,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "making_bed",
+        "filename": "-0mnCHRQ-Zc_000092_000102_frame3.jpg",
+        "encoding-time": 6.266906976699829,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking in the kitchen, as they are using a frying pan to stir or cook something on the stove.",
+                9.351167917251587,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning the hospital bed, which is covered with a green sheet.",
+                7.246028661727905,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "making_bed",
+        "filename": "-0mnCHRQ-Zc_000092_000102_frame2.jpg",
+        "encoding-time": 5.829460144042969,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking in the kitchen, as they are using a frying pan to cook food.",
+                7.420442819595337,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning the floor of a room.",
+                5.026960134506226,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "making_bed",
+        "filename": "-0mnCHRQ-Zc_000092_000102_frame1.jpg",
+        "encoding-time": 7.816431999206543,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking in the kitchen, as they are using a frying pan to cook food.",
+                8.10714316368103,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning the hospital bed, which is covered with a green sheet.",
+                7.293783664703369,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "making_bed",
+        "filename": "-JdIM1KZ1zo_000032_000042_frame2.jpg",
+        "encoding-time": 6.034355878829956,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking in the kitchen, as they are using a frying pan to cook food.",
+                8.048152923583984,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning the table in the image.",
+                4.592375040054321,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "making_bed",
+        "filename": "-JdIM1KZ1zo_000032_000042_frame3.jpg",
+        "encoding-time": 7.029301881790161,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as the image shows a person preparing food on a stove.",
+                9.965882062911987,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning the top of a green and white microwave oven.",
+                8.847639799118042,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "making_bed",
+        "filename": "-JdIM1KZ1zo_000032_000042_frame1.jpg",
+        "encoding-time": 6.924996852874756,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as they are using a frying pan and a spatula to stir the contents of the pan.",
+                9.410737037658691,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning the table in the image.",
+                4.866480827331543,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "cooking_egg",
+        "filename": "-IVX-ERJDqE_000235_000245_frame2.jpg",
+        "encoding-time": 5.886829137802124,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as the image shows a frying pan with a few sunny-side up eggs cooking on a stove.",
+                9.749987125396729,
+                "Correctly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning the eggs in the frying pan.",
+                5.350597143173218,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "cooking_egg",
+        "filename": "-IVX-ERJDqE_000235_000245_frame3.jpg",
+        "encoding-time": 5.646870851516724,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as the person is using a frying pan to cook the eggs.",
+                7.583806037902832,
+                "Correctly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning the eggs in the frying pan.",
+                4.941917896270752,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "cooking_egg",
+        "filename": "-IVX-ERJDqE_000235_000245_frame1.jpg",
+        "encoding-time": 5.837835073471069,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as the person is using a frying pan to cook four sunny-side-up eggs.",
+                8.431314945220947,
+                "Correctly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning the eggs in the pan using a sponge.",
+                5.70848822593689,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "cooking_egg",
+        "filename": "-5wZIPAiHzo_000096_000106_frame1.jpg",
+        "encoding-time": 7.365928411483765,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that the person in the image is cooking, as they are standing in a kitchen and using a pot to stir something.",
+                10.275930881500244,
+                "Correctly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning in the kitchen. The man is holding a sponge and scrubbing the counter, which suggests that he is actively engaged in cleaning tasks.",
+                12.878902912139893,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "cooking_egg",
+        "filename": "-5wZIPAiHzo_000096_000106_frame2.jpg",
+        "encoding-time": 7.868741035461426,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking in the kitchen. The man is standing in front of a stove, and there are various cooking utensils and ingredients around him, such as a bowl, a spoon, and a bottle. The presence of these items suggests that he is preparing a meal or dish that requires cooking.",
+                25.767030000686646,
+                "Correctly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning in the kitchen. The person is holding a sponge and scrubber, and there are various cleaning supplies on the counter.",
+                15.129209041595459,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "cooking_egg",
+        "filename": "-5wZIPAiHzo_000096_000106_frame3.jpg",
+        "encoding-time": 7.484508037567139,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it looks like someone is cooking, as the text \"3 Minutes Later\" is displayed in a kitchen setting.",
+                9.379003047943115,
+                "Correctly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning, as there is a spray of liquid on the floor.",
+                7.997806787490845,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "cooking_egg",
+        "filename": "-JRT9aCAVsA_000032_000042_frame1.jpg",
+        "encoding-time": 6.686581134796143,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking in the image, as the person is stirring a pot of food on the stove.",
+                9.305780172348022,
+                "Correctly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning the inside of a frying pan using a sponge.",
+                7.00042986869812,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "cooking_egg",
+        "filename": "-JRT9aCAVsA_000032_000042_frame2.jpg",
+        "encoding-time": 7.1276679039001465,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking in the image, as the person is using a frying pan to cook food.",
+                8.913305044174194,
+                "Correctly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning the inside of a frying pan using a sponge.",
+                6.098120927810669,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "cooking_egg",
+        "filename": "-JRT9aCAVsA_000032_000042_frame3.jpg",
+        "encoding-time": 5.997766733169556,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as they are using a frying pan to cook some food.",
+                6.715605974197388,
+                "Correctly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning up a mess, as they are holding a brush and scrubbing a bowl. The presence of the brush and scrub suggests that the person is actively engaged in cleaning up the mess.",
+                13.755078077316284,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "cooking_egg",
+        "filename": "-1QHAHq6DnE_000138_000148_frame3.jpg",
+        "encoding-time": 5.548488140106201,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as they are using a frying pan to stir or cook something in the kitchen.",
+                7.732238054275513,
+                "Correctly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning their hands in the sink.",
+                4.486791133880615,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "cooking_egg",
+        "filename": "-1QHAHq6DnE_000138_000148_frame2.jpg",
+        "encoding-time": 5.520169973373413,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as they are using a frying pan to stir or cook something in the kitchen.",
+                7.593533039093018,
+                "Correctly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning the toilet bowl using a sponge and a scrub brush.",
+                5.869339942932129,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "cooking_egg",
+        "filename": "-1QHAHq6DnE_000138_000148_frame1.jpg",
+        "encoding-time": 5.3859782218933105,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as the person is using a frying pan to cook something in the kitchen.",
+                7.2249510288238525,
+                "Correctly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning the egg whites on the plate using a sponge.",
+                5.644308090209961,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "cooking_sausages",
+        "filename": "-9CqeuXdCvM_000080_000090_frame1.jpg",
+        "encoding-time": 5.409816026687622,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as they are using a frying pan to cook something.",
+                6.131357908248901,
+                "Correctly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning their hands, specifically the fingers, using a sponge or a hand towel.",
+                7.041645050048828,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "cooking_sausages",
+        "filename": "-9CqeuXdCvM_000080_000090_frame3.jpg",
+        "encoding-time": 5.405900955200195,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as there is a hot dog on a grill and a glass of beer on the table. The hot dog is likely being grilled, while the beer is being poured into a glass, suggesting that the person is preparing a meal. The presence of the hot dog and beer on the grill and the person pouring the beer also indicate that the person is actively engaged in cooking and preparing a meal.",
+                26.14517593383789,
+                "Correctly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning up the mess of uncooked food items, which include various types of bread and pastries.",
+                8.439166069030762,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "cooking_sausages",
+        "filename": "-9CqeuXdCvM_000080_000090_frame2.jpg",
+        "encoding-time": 5.559017896652222,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as there are multiple hot dogs on the grill along with other food items.",
+                7.38332986831665,
+                "Correctly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning the hot dogs on the grill using a sponge and a pair of scissors.",
+                7.099616765975952,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "brushing_teeth",
+        "filename": "-IPOGs2FuSo_000046_000056_frame3.jpg",
+        "encoding-time": 5.433305025100708,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as they are using a frying pan in the kitchen.",
+                6.1116790771484375,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning the bathroom. The image shows a person holding a cleaning tool and scrubber, which suggests that they are actively engaged in cleaning tasks. The presence of the cleaning tool and scrubber indicates that the person is actively involved in maintaining the cleanliness and hygiene of the bathroom space.",
+                19.20685315132141,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "brushing_teeth",
+        "filename": "-IPOGs2FuSo_000046_000056_frame2.jpg",
+        "encoding-time": 5.927836179733276,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking in the image. The person is using a frying pan or a pan-like cooking device while sitting in a chair.",
+                9.847847938537598,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning their hands in the sink.",
+                4.678319215774536,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "brushing_teeth",
+        "filename": "-IPOGs2FuSo_000046_000056_frame1.jpg",
+        "encoding-time": 6.063109874725342,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking in the image. The person is standing in a kitchen, and a spoon is visible on the countertop. The presence of a sink and a cup further suggest that the person might be preparing a meal or engaging in some cooking activity. The person is wearing a blue shirt, which might indicate a casual or informal setting.",
+                46.513837814331055,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning their hands in the sink.",
+                12.639827966690063,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "brushing_teeth",
+        "filename": "--IPbe5ZMCI_000002_000012_frame3.jpg",
+        "encoding-time": 12.541320085525513,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as they are holding a spoon with a spoonful of food on it. This suggests that the person might be in the process of preparing a dish or a beverage.",
+                36.35147500038147,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning their teeth. The toothbrush is being used to scrub their teeth, and there is a toothpaste visible on the toothbrush. The person is likely making a face while cleaning their teeth, which adds a humorous and playful element to the image.",
+                39.483120918273926,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "brushing_teeth",
+        "filename": "-JrM0r9wQ5s_000000_000010_frame3.jpg",
+        "encoding-time": 6.177670955657959,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that the person in the image is cooking, as they are using a spoon to stir something in a bowl. The presence of the spoon and the stirring action suggest that the person is actively engaged in cooking.",
+                13.970915794372559,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning their teeth using a toothbrush.",
+                4.810984373092651,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "brushing_teeth",
+        "filename": "-JrM0r9wQ5s_000000_000010_frame2.jpg",
+        "encoding-time": 5.8138649463653564,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that the person in the image is cooking, as they are using a spoon to stir something in a bowl. The presence of the spoon and the bowl suggests that the person is actively preparing a dish or a snack.",
+                15.26632308959961,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning their face using a sponge and a toothbrush. The person is actively engaging in a cleaning activity, which is a common practice to remove dirt, grime, and stains from one's face.",
+                14.485404968261719,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "brushing_teeth",
+        "filename": "--IPbe5ZMCI_000002_000012_frame2.jpg",
+        "encoding-time": 5.437636137008667,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as they are using a spatula to stir something in a bowl. The presence of the spoon and the action of stirring suggest that the person is actively engaged in preparing or consuming the food.",
+                14.641604900360107,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning their teeth using a toothbrush.",
+                5.771580934524536,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "brushing_teeth",
+        "filename": "-JrM0r9wQ5s_000000_000010_frame1.jpg",
+        "encoding-time": 6.541903972625732,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that the person in the image is cooking, as they are using a white spatula to stir something in a bowl. The presence of the spatula and the bowl suggests that the person is actively engaged in cooking or preparing a dish.",
+                17.553775310516357,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning their mouth using a toothbrush.",
+                5.491063833236694,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "brushing_teeth",
+        "filename": "--IPbe5ZMCI_000002_000012_frame1.jpg",
+        "encoding-time": 6.179723024368286,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as they are using a spoon to stir something in a bowl. The presence of the spoon and the person's actions suggest that they are actively engaged in the cooking process.",
+                13.896270990371704,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning their teeth. The toothbrush is being used to remove a stain or discoloration, and the person is likely applying a disinfectant or cleaning solution to the affected area. The presence of the disinfectant suggests that the person is taking care to prevent the growth of bacteria or other pathogens that may be present on their teeth.",
+                23.094372749328613,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "brushing_teeth",
+        "filename": "-A5zZ3XxKq8_000036_000046_frame1.jpg",
+        "encoding-time": 5.138446092605591,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as the child is holding a spoon and appears to be stirring something in a pot.",
+                7.067116022109985,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning their hands, as they are holding a blue and white toy while wiping their hands.",
+                6.721935749053955,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "brushing_teeth",
+        "filename": "--mQfG6Wu48_000028_000038_frame3.jpg",
+        "encoding-time": 4.7206432819366455,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as the child is holding a spoon and standing near a stove.",
+                5.692194700241089,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning in the image, as they are holding a cleaning tool and scrubbing the floor of a room.",
+                7.225555896759033,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "brushing_teeth",
+        "filename": "-CvBL3E1Qfs_000009_000019_frame3.jpg",
+        "encoding-time": 4.672979831695557,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as they are using a frying pan and stirring the contents of the pan.",
+                6.129944086074829,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning their feet while they are sitting on the floor.",
+                4.693562746047974,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "brushing_teeth",
+        "filename": "-CvBL3E1Qfs_000009_000019_frame2.jpg",
+        "encoding-time": 4.55815863609314,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as they are using a cooking utensil, possibly a spatula, to stir something in a pot on a stove.",
+                8.559620141983032,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning a dog using a brush. The dog is standing on a wooden floor, and the person is holding the brush up to its face, actively cleaning the dog.",
+                10.208897113800049,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "brushing_teeth",
+        "filename": "--mQfG6Wu48_000028_000038_frame2.jpg",
+        "encoding-time": 4.7496116161346436,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as the child is holding a blue spoon and appears to be stirring something in a pot.",
+                7.117810010910034,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning their child's face using a toothbrush.",
+                4.481608867645264,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "brushing_teeth",
+        "filename": "-A5zZ3XxKq8_000036_000046_frame2.jpg",
+        "encoding-time": 4.783149003982544,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as the child is holding a cooking utensil and appears to be preparing food.",
+                6.770839691162109,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning their hands, specifically using a hand sanitizer or a handkerchief, while sitting on a toilet.",
+                8.23267412185669,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "brushing_teeth",
+        "filename": "-CvBL3E1Qfs_000009_000019_frame1.jpg",
+        "encoding-time": 4.8005900382995605,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking in the image. The person is holding a hot plate and a wok, which are commonly used in Asian cooking. The cooking process is likely to be heated by a hot burner, and the person is using a wok to stir the hot plate and cook the wok. The presence of the hot plate and wok suggests that the person is preparing a meal that requires precise control and attention to the cooking process.",
+                23.989829063415527,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning up after playing a video game. The person is holding a remote control and appears to be actively engaged in the game.",
+                8.508707046508789,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "brushing_teeth",
+        "filename": "--mQfG6Wu48_000028_000038_frame1.jpg",
+        "encoding-time": 5.0470359325408936,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as the child is holding a blue spatula and appears to be in the process of stirring or mixing something. The presence of a pot and a sink in the image suggests that the cooking activity might be taking place in a kitchen setting. The child's involvement in the cooking process is indicative of a family cooking or spending time together in the kitchen.",
+                23.100064039230347,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning their child's face using a blue and white toothbrush.",
+                6.633045673370361,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "brushing_teeth",
+        "filename": "-A5zZ3XxKq8_000036_000046_frame3.jpg",
+        "encoding-time": 6.702468156814575,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as the child is holding a spoon and a bottle in the kitchen.",
+                8.668734073638916,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning their hands, specifically using a hand sanitizer or a handkerchief, while sitting on a toilet.",
+                11.21666407585144,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "brushing_teeth",
+        "filename": "-LR0gXR8c9c_000010_000020_frame1.jpg",
+        "encoding-time": 6.638949871063232,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as the child is holding a frying pan and appears to be stirring the contents. The presence of the frying pan and the child's involvement in cooking suggest that someone is preparing something.",
+                15.69715404510498,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning their hands, as they are holding them up to their face and scrubbing their hands.",
+                8.91777777671814,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "brushing_teeth",
+        "filename": "-LR0gXR8c9c_000010_000020_frame2.jpg",
+        "encoding-time": 5.922234773635864,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as the child is holding a frying pan and appears to be preparing food.",
+                7.80023193359375,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning the child's face using a sponge. The child is being held by a person, and the child is being washed in water.",
+                11.495758771896362,
+                "Incorrectly Labeled"
+            ]
+        ]
+    },
+    {
+        "activity": "brushing_teeth",
+        "filename": "-LR0gXR8c9c_000010_000020_frame3.jpg",
+        "encoding-time": 5.935143947601318,
+        "queries": [
+            [
+                "Does it look like someone is cooking?",
+                " Yes, it appears that someone is cooking, as the man is holding a young boy on his shoulders while he cooks.",
+                7.760679006576538,
+                "Incorrectly Labeled"
+            ],
+            [
+                "Does it look like someone is cleaning?",
+                " Yes, it appears that someone is cleaning up a mess in the room. The presence of a person holding a child on their shoulders and another person holding a child on their shoulders suggests that they are involved in a cleaning activity. However, without more context or information, it is not possible to definitively determine if the cleaning is taking place or if the individuals are engaged in a more organized cleaning process.",
+                24.710422039031982,
+                "Incorrectly Labeled"
+            ]
+        ]
+    }
+]
