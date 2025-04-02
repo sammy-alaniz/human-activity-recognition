@@ -1,0 +1,1 @@
+moondream 2b int8
