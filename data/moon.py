@@ -1,9 +1,19 @@
 import os
 import json
-
+import signal
+import sys
 import moondream as md
 from PIL import Image
 import time
+
+# Flag to indicate if the script should exit
+keep_running = True
+
+def signal_handler(sig, frame):
+    """Handle Ctrl+C gracefully."""
+    global keep_running
+    print("\nCtrl+C detected. Shutting down gracefully...")
+    keep_running = False
 
 def runMoon(frames_dir, prompts):
     print('Starting runMoon')
@@ -23,6 +33,10 @@ def runMoon(frames_dir, prompts):
     all_test_cases = []
 
     for full_path in image_files:
+        # Check if we should stop due to Ctrl+C
+        if not keep_running:
+            break
+
         test_case = {}
         directory_name = os.path.basename(os.path.dirname(full_path))
         filename = os.path.basename(full_path)
@@ -33,7 +47,7 @@ def runMoon(frames_dir, prompts):
 
         # Load and process image
         image = Image.open(full_path)
-        cpu_optimal_size = (224, 224)
+        cpu_optimal_size = (374, 374)
         resized_image = image.resize(cpu_optimal_size, Image.BILINEAR)
 
         start_time = time.time()
@@ -44,6 +58,8 @@ def runMoon(frames_dir, prompts):
 
         queries = []
         for prompt in prompts:
+            if not keep_running:  # Check again before querying
+                break
             print(f'POMPT : {prompt}')
             start_time = time.time()
             answer = model.query(encoded_image, prompt)["answer"]
@@ -53,22 +69,36 @@ def runMoon(frames_dir, prompts):
         test_case['queries'] = queries
         all_test_cases.append(test_case)
 
+        # Write individual test case to results.json
         try:
             with open('./results.json', 'a') as f:
                 json_string = json.dumps(test_case)
                 f.write(json_string + '\n')
         except Exception as e:
-            print(e)
+            print(f"Error writing to results.json: {e}")
 
-    try:
-        with open('./all_test_cases.json', 'w') as f:
-            json.dump(all_test_cases, f, indent=4)
-    except Exception as e:
-        print(e)
+    # Write all test cases to all_test_cases.json only if not interrupted
+    if keep_running:
+        try:
+            with open('./all_test_cases.json', 'w') as f:
+                json.dump(all_test_cases, f, indent=4)
+        except Exception as e:
+            print(f"Error writing to all_test_cases.json: {e}")
+    else:
+        print("Saving incomplete results to all_test_cases.json...")
+        try:
+            with open('./all_test_cases.json', 'w') as f:
+                json.dump(all_test_cases, f, indent=4)
+        except Exception as e:
+            print(f"Error writing incomplete results: {e}")
 
-
+    if not keep_running:
+        sys.exit(0)  # Exit cleanly
 
 if __name__ == "__main__":
-    labels = ['Does it look like someone is cooking?',
-               'Does it look like someone is cleaning?']
-    runMoon("./data/k400/extracted_frames", labels)
+    # Register the signal handler for Ctrl+C
+    signal.signal(signal.SIGINT, signal_handler)
+
+    labels = ['Describe the image',
+              'Does it look like someone is cleaning?']
+    runMoon("./k400/frame/train/", labels)

@@ -1,6 +1,7 @@
 .DS_Store
 venv/
-
+all_test_cases.json
+results.json
 tmp/
 
 k400/
