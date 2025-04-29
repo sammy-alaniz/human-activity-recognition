@@ -5,6 +5,7 @@ import sys
 import moondream as md
 from PIL import Image
 import time
+from datetime import datetime
 
 # Flag to indicate if the script should exit
 keep_running = True
@@ -80,14 +81,16 @@ def runMoon(frames_dir, prompts):
     # Write all test cases to all_test_cases.json only if not interrupted
     if keep_running:
         try:
-            with open('./all_test_cases.json', 'w') as f:
+            current_time = datetime.now().strftime('%Y-%m-%d_%H-%M-%S')
+            with open(f'./all_test_cases_{current_time}.json', 'w') as f:
                 json.dump(all_test_cases, f, indent=4)
         except Exception as e:
             print(f"Error writing to all_test_cases.json: {e}")
     else:
         print("Saving incomplete results to all_test_cases.json...")
         try:
-            with open('./all_test_cases.json', 'w') as f:
+            current_time = datetime.now().strftime('%Y-%m-%d_%H-%M-%S')
+            with open(f'./all_test_cases_{current_time}.json', 'w') as f:
                 json.dump(all_test_cases, f, indent=4)
         except Exception as e:
             print(f"Error writing incomplete results: {e}")
@@ -100,5 +103,20 @@ if __name__ == "__main__":
     signal.signal(signal.SIGINT, signal_handler)
 
     labels = ['Describe the image',
-              'Does it look like someone is cleaning?']
+              'Does it look like someone is cleaning?',
+              'Does it look like someone is cooking chicken',
+              'Does it look like someone is reading book',
+              'Does it look like someone is cleaning shoes',
+              'Does it look like someone is mowing lawn',
+              'Does it look like someone is carrying baby',
+              'Does it look like someone is sanding floor',
+              'Does it look like someone is petting animal',
+              'Does it look like someone is cleaning floor',
+              'Does it look like someone is using computer',
+              'Does it look like someone is folding clothes',
+              'Does it look like someone is flipping pancake',
+              'Does it look like someone is cleaning windows',
+              'Does it look like someone is decorating the christmas tree',
+              'Does it look like someone is washing dishes',
+              ]
     runMoon("./k400/frame/train/", labels)
