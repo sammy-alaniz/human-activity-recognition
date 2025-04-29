@@ -59,31 +59,38 @@ def extract_frames(csv_path, video_dir, output_dir):
 
 if __name__ == "__main__":
     root_dl = "k400"
-    tgz_train = f'{root_dl}/tgz/train'
-    csv_train = f'{root_dl}/csv/train'
-    video_train = f'{root_dl}/video/train'
-    frame_train = f'{root_dl}/frame/train'
+    tgz_train_dir = f'{root_dl}/tgz/train'
+    csv_train_dir = f'{root_dl}/csv/train'
+    video_train_dir = f'{root_dl}/video/train'
+    frame_train_dir = f'{root_dl}/frame/train'
+    weights_dir = f'{root_dl}/weights'
 
     
     os.makedirs(root_dl, exist_ok=True)
-    os.makedirs(tgz_train, exist_ok=True)
-    os.makedirs(csv_train, exist_ok=True)
-    os.makedirs(video_train, exist_ok=True)
+    os.makedirs(tgz_train_dir, exist_ok=True)
+    os.makedirs(csv_train_dir, exist_ok=True)
+    os.makedirs(video_train_dir, exist_ok=True)
+    os.makedirs(weights_dir, exist_ok=True)
+
+    moondream_weights_url = "https://huggingface.co/vikhyatk/moondream2/resolve/onnx/moondream-2b-int8.mf.gz?download=true"
+    output_path = f"{weights_dir}/moondream-2b-int8.mf.gz"
+    download_file(moondream_weights_url, output_path, desc="Downloading first train item")
     
     download_list_url = "https://s3.amazonaws.com/kinetics/400/train/k400_train_path.txt"
     
     train_download_list = requests.get(download_list_url).text.splitlines()
     first_url = train_download_list[0]
 
-    output_path = f"{tgz_train}/{os.path.basename(first_url)}"
+    output_path = f"{tgz_train_dir}/{os.path.basename(first_url)}"
     download_file(first_url, output_path, desc="Downloading first train item")
 
     csv_file_url = "https://s3.amazonaws.com/kinetics/400/annotations/train.csv"
 
-    csv_output = f'{csv_train}/{os.path.basename(csv_file_url)}'
+    csv_output = f'{csv_train_dir}/{os.path.basename(csv_file_url)}'
     download_file(csv_file_url, csv_output, desc="Downloading train csv")
 
-    untar_file(output_path,video_train)
+    untar_file(output_path,video_train_dir)
 
+    extract_frames('./k400/csv/train/train.csv',video_train_dir,frame_train_dir)
 
-    extract_frames('./k400/csv/train/train.csv',video_train,frame_train)
+    
