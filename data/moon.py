@@ -17,7 +17,7 @@ def signal_handler(sig, frame):
 
 def runMoon(frames_dir, prompts):
     print('Starting runMoon')
-    model = md.vl(model="/Users/samuelalaniz/dev/llms/moondream-0_5b-int4.mf")
+    model = md.vl(model="./k400/weights/moondream-2b-int8.mf.gz")
 
     # Get all image files
     image_files = []
