@@ -1,0 +1,6 @@
+Successfully loaded data from all_test_cases_2025-04-30_12-26-33.json
+
+Processed 27423 total query instances.
+Matched 25709 instances against target query list.
+
+Results successfully written to activity_evaluation_results.csv
