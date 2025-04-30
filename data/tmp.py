@@ -126,87 +126,142 @@ def create_patches(
 
 class OnnxMoondream:
     def __init__(self, model_path: str):
-        print("Loading ONNX Moondream model components...")
-        ort.set_default_logger_severity(3) # Suppress warnings
-
-        # Determine execution providers (CPU or GPU)
-        if ort.get_device() == "GPU":
-            providers = ["CUDAExecutionProvider", "CPUExecutionProvider"]
-            print("Using ONNX Runtime with CUDAExecutionProvider.")
-        else:
-            providers = ["CPUExecutionProvider"]
-            print("Using ONNX Runtime with CPUExecutionProvider.")
-
+        """
+        Initialise the Moondream ONNX model and wire it up to Apple’s Core-ML
+        execution provider when available (≈ GPU / Neural-Engine on Apple Silicon).
+    
+        Parameters
+        ----------
+        model_path : str
+            Path to the `.mf` / `.mf.gz` bundle that contains the ONNX graphs,
+            weights, tokenizer, config, etc.
+        """
+        import onnxruntime as ort
+        from io import BytesIO
+    
+        print("Loading ONNX Moondream model components…")
+        ort.set_default_logger_severity(0)       # silence most runtime chatter
+    
+        # ----------------------------------------------------------
+        #  Select the best execution providers for this machine
+        # ----------------------------------------------------------
+        def _select_providers() -> list:
+            """
+            Prefer CoreMLExecutionProvider on Apple Silicon; always keep the CPU
+            provider as a fallback so every op has somewhere to run.
+            """
+            available = ort.get_available_providers()
+            print(f'AVAIL {available}')
+            providers = []
+    
+            if "CoreMLExecutionProvider" in available:
+                print("Using CoreMLExecutionProvider (Apple GPU / ANE).")
+                coreml_options = {
+                    # "coreml.use_cpu_only": False,      # push work to GPU / ANE
+                    # "coreml.enable_on_subgraph": True, # let Core ML take partial graphs
+                }
+                providers.append(("CoreMLExecutionProvider", coreml_options))
+    
+            # Always leave the CPU EP last as a safe harbour.
+            providers.append("CPUExecutionProvider")
+            return providers
+    
+        # providers = _select_providers()
+        providers = ['CoreMLExecutionProvider']
+    
+        # Fine-tune optimisation, keep default otherwise
         sess_options = ort.SessionOptions()
-        ort_settings = {"providers": providers, "sess_options": sess_options}
-
+        sess_options.graph_optimization_level = (
+            ort.GraphOptimizationLevel.ORT_ENABLE_ALL
+        )
+    
+        # ----------------------------------------------------------
+        #  Sanity-check the model path
+        # ----------------------------------------------------------
         if not os.path.isfile(model_path):
-             raise ValueError(f"Model path is invalid or file does not exist: {model_path}")
-
-        # Unpack the model file and load components
+            raise ValueError(
+                f"Model path is invalid or file does not exist: {model_path}"
+            )
+    
+        # ----------------------------------------------------------
+        #  Unpack the .mf bundle and load each component
+        # ----------------------------------------------------------
         components: Dict[str, Any] = {}
         file_handlers = {
-            "onnx": lambda c: ort.InferenceSession(c, **ort_settings),
+            "onnx": lambda c: ort.InferenceSession(
+                c, providers=providers, sess_options=sess_options
+            ),
             "json": lambda c: json.loads(c),
-            "npy": lambda c: np.load(BytesIO(c)),
+            "npy":  lambda c: np.load(BytesIO(c)),
         }
+    
         required_components = [
-            "vision_encoder", "vision_projection", "text_encoder",
-            "text_decoder", "tokenizer", "initial_kv_cache", "config"
+            "vision_encoder",
+            "vision_projection",
+            "text_encoder",
+            "text_decoder",
+            "tokenizer",
+            "initial_kv_cache",
+            "config",
         ]
+    
         found_components = set()
-        tokenizer_loaded = False # Flag to track if tokenizer is loaded
-
+        tokenizer_loaded = False
+    
         for filename, contents in unpack(model_path):
             key, ext = os.path.splitext(os.path.basename(filename))
-            ext = ext.lstrip('.')
-
-            # --- Special handling for tokenizer ---
+            ext = ext.lstrip(".")
+    
+            # --- special-case the tokenizer because the API is different ---
             if key == "tokenizer":
-                print(f"  Loading tokenizer...")
+                print("  Loading tokenizer…")
                 self.tokenizer: Tokenizer = Tokenizer.from_buffer(contents)
                 found_components.add("tokenizer")
-                tokenizer_loaded = True # Set the flag
-            # --- Handle other components ---
+                tokenizer_loaded = True
+            # everything else: use the generic handlers above
             elif ext in file_handlers:
-                print(f"  Loading {key}.{ext}...")
+                print(f"  Loading {key}.{ext}…")
                 components[key] = file_handlers[ext](contents)
                 found_components.add(key)
             else:
-                 print(f"  Skipping unknown file type: {filename}")
-
-        # --- Check if tokenizer was loaded via special handling ---
-        if not tokenizer_loaded:
-             # Check if it exists in components dict (fallback, less likely)
-             if 'tokenizer' in components:
-                 print("  Loading tokenizer from components dict...")
-                 self.tokenizer: Tokenizer = components['tokenizer']
-                 found_components.add('tokenizer')
-             # else: # If still not found, the error below will catch it
-
-        # --- Assign components to attributes (excluding tokenizer if already handled) ---
+                print(f"  Skipping unknown file type: {filename}")
+    
+        # tokenizer might have ended up in `components` if not caught above
+        if not tokenizer_loaded and "tokenizer" in components:
+            self.tokenizer = components["tokenizer"]
+            found_components.add("tokenizer")
+    
+        # ----------------------------------------------------------
+        #  Make sure we have every part we need
+        # ----------------------------------------------------------
         for key in required_components:
             if key not in found_components:
-                raise ValueError(f"Missing required component '{key}' in model file.")
-            # --- Skip setting tokenizer attribute if it was already set directly ---
-            if key == 'tokenizer' and tokenizer_loaded:
-                continue
-            # --- Set other attributes ---
-            setattr(self, key, components[key])
-
-        # Extract relevant config details
+                raise ValueError(f"Missing required component ‘{key}’ in model file.")
+            if key == "tokenizer" and tokenizer_loaded:
+                continue  # already stored in self.tokenizer
+            setattr(self, key, components.get(key))
+    
+        # ----------------------------------------------------------
+        #  Pull a few frequently-used config bits into attributes
+        # ----------------------------------------------------------
         self.special_tokens = self.config["special_tokens"]
-        # Ensure the path to templates is correct based on your config structure
-        if "tokenizer" in self.config and "templates" in self.config["tokenizer"]:
-             self.templates = self.config["tokenizer"]["templates"]
-        elif "templates" in self.config: # Fallback if templates are at the root
-             self.templates = self.config["templates"]
+    
+        if (
+            "tokenizer" in self.config
+            and "templates" in self.config["tokenizer"]
+        ):
+            self.templates = self.config["tokenizer"]["templates"]
+        elif "templates" in self.config:
+            self.templates = self.config["templates"]
         else:
-             raise ValueError("Could not find 'templates' in the model config.")
-
+            raise ValueError("Could not find ‘templates’ in the model config.")
+    
         self.eos_token_id = self.special_tokens["eos"]
+    
         print("ONNX Moondream model loaded successfully.")
     
+    
+
     def encode_image(self, image: Image.Image) -> Tuple[int, np.ndarray]:
         """ Encodes an image into embeddings and KV cache state. """
         print("Encoding image...")

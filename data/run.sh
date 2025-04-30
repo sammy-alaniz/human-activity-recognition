@@ -1,1 +1,1 @@
-python tmp.py --model-path /Users/samuelalaniz/dev/llms/moondream-2b-int8.mf --image-path /Users/samuelalaniz/dev/school/human-signals/project/1-ws/human-activity-recognition/data/k400/frame/train/reading_book/-DsMpC5_-c4_000027_000037_frame1.jpg --query "<your_question_here>"
+python tmp.py --model-path /Users/samuelalaniz/dev/llms/moondream-2b-int8.mf --image-path /Users/samuelalaniz/dev/school/human-signals/project/1-ws/human-activity-recognition/data/k400/frame/train/reading_book/-DsMpC5_-c4_000027_000037_frame1.jpg --query "<your_question_here>" > logs.txt 2>&1

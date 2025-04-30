@@ -1,0 +1,75 @@
+Found 8 ONNX files to inspect:
+  - size_decoder.onnx
+  - text_decoder.onnx
+  - coord_encoder.onnx
+  - vision_encoder.onnx
+  - text_encoder.onnx
+  - size_encoder.onnx
+  - vision_projection.onnx
+  - coord_decoder.onnx
+------------------------------
+Processing: size_decoder.onnx...
+  Successfully loaded.
+  Found 5 unique ops in this file (10 nodes total).
+------------------------------
+Processing: text_decoder.onnx...
+  Successfully loaded.
+  Found 25 unique ops in this file (2429 nodes total).
+------------------------------
+Processing: coord_encoder.onnx...
+  Successfully loaded.
+  Found 8 unique ops in this file (9 nodes total).
+------------------------------
+Processing: vision_encoder.onnx...
+  Successfully loaded.
+  Found 17 unique ops in this file (1362 nodes total).
+------------------------------
+Processing: text_encoder.onnx...
+  Successfully loaded.
+  Found 1 unique ops in this file (1 nodes total).
+------------------------------
+Processing: size_encoder.onnx...
+  Successfully loaded.
+  Found 8 unique ops in this file (9 nodes total).
+------------------------------
+Processing: vision_projection.onnx...
+  Successfully loaded.
+  Found 4 unique ops in this file (9 nodes total).
+------------------------------
+Processing: coord_decoder.onnx...
+  Successfully loaded.
+  Found 4 unique ops in this file (9 nodes total).
+------------------------------
+
+==============================================
+Unique Operations Found Across All Files:
+==============================================
+Add
+Cast
+Concat
+ConstantOfShape
+Cos
+Div
+DynamicQuantizeMatMul
+Equal
+Expand
+FastGelu
+Gather
+LayerNormalization
+MatMul
+Mul
+Range
+Reshape
+RotaryEmbedding
+ScatterND
+Shape
+Sin
+Slice
+Softmax
+Sqrt
+Transpose
+Trilu
+Unsqueeze
+Where
+
+Total unique operations found: 27
