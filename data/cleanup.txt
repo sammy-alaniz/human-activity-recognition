@@ -1,0 +1,43 @@
+Overall Accuracy (penalizing unknowns): 0.9534
+Overall Precision: 0.1702
+Overall Recall: 0.3552
+Overall F1-Score: 0.2301
+Total Unknown Responses: 0
+
+--- Performance per Activity (Avg. Accuracy across Query Types) ---
+                                     avg_accuracy  ...  total_eval
+activity_label                                     ...            
+dribbling_basketball                     1.000000  ...         315
+passing_American_football_(in_game)      1.000000  ...         180
+kicking_field_goal                       1.000000  ...          90
+stretching_leg                           1.000000  ...          45
+juggling_fire                            1.000000  ...          90
+...                                           ...  ...         ...
+cleaning_floor                           0.805567  ...         180
+cleaning_shoes                           0.799993  ...          90
+cleaning_windows                         0.744447  ...          90
+washing_hands                            0.733333  ...          45
+cleaning_pool                            0.725927  ...         135
+
+[184 rows x 6 columns]
+
+--- Performance per Query Type (Avg. Accuracy across Activities) ---
+                           avg_accuracy  total_tp  ...  total_fn  total_eval
+query_action_key                                   ...                      
+mowing_lawn                    0.995562        10  ...         5        1714
+reading_book                   0.994290         2  ...         1        1714
+sanding_floor                  0.985537        11  ...        13        1714
+washing_dishes                 0.972464         4  ...        35        1713
+using_computer                 0.968395        12  ...         3        1714
+cleaning_windows               0.964160         5  ...        34        1714
+cleaning_floor                 0.961460        15  ...        30        1714
+petting_animal                 0.958726        14  ...        37        1714
+cooking_chicken                0.956418        12  ...        51        1714
+flipping_pancake               0.950893        17  ...        64        1714
+decorating_christmas_tree      0.950449         3  ...        12        1714
+cleaning_shoes                 0.948348        17  ...        25        1714
+folding_clothes                0.936535         3  ...         0        1714
+carrying_baby                  0.898989        20  ...        10        1714
+cleaning                       0.800097        34  ...         5        1714
+
+[15 rows x 6 columns]
